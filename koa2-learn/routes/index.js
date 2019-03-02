@@ -1,6 +1,13 @@
 const router = require('koa-router')()
 
+// async 函数是什么？
+// 一句话，它就是 Generator 函数的语法糖。是ES2017标准
+// async函数的返回值是 Promise 对象
+
 router.get('/', async (ctx, next) => {
+    // async 关键字放在函数前面，表示函数是一个异步函数。-----async英文是异步。
+    // 异步函数--- 意味着该函数的执行不会阻塞后面代码的执行。
+
   // node 中的全局对象是 global
   global.console.log('index2')
 
