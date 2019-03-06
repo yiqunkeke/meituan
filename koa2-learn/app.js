@@ -5,6 +5,8 @@ const json = require('koa-json')   // koa 中间件
 const onerror = require('koa-onerror') // koa 中间件
 const bodyparser = require('koa-bodyparser')// koa 中间件
 const logger = require('koa-logger')// koa 中间件
+const session = require('koa-generic-session') // 处理session中间件
+const Redis = require('koa-redis') // 将koa与redis连接的中间件
 const pv = require('./middleware/pv')
 const m1 = require('./middleware/m1')
 const m2 = require('./middleware/m2')
@@ -19,6 +21,12 @@ const users = require('./routes/users')
 
 // error handler
 onerror(app)
+
+// session 作加密处理
+app.keys = ['keys', 'keyskeys']
+app.use(session({
+    store: new Redis()
+}))   // 将 redis 与 koa 进行了连接
 
 // middlewares----app.use()引用中间件
 app.use(bodyparser({

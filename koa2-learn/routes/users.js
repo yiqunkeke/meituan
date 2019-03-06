@@ -1,6 +1,10 @@
 const router = require('koa-router')()
+const Redis = require('koa-redis')
 const Person = require('../dbs/models/person') // 引入模型model
 
+
+const Store = new Redis().client // 新建 Redis 客户端---通过Store对象拿到Redis客户端
+// 这个客户端就是我们的服务器程序
 router.prefix('/users')
 
 router.get('/', function (ctx, next) {
@@ -10,6 +14,17 @@ router.get('/', function (ctx, next) {
 router.get('/bar', function (ctx, next) {
   ctx.body = 'this is a users/bar response'
 })
+
+// 直接操作redis数据库
+router.get('/fix', async function (ctx) {
+    // hset 是 redis的一个命令
+    const st = await Store.hset('fix','name',Math.random())
+    ctx.body = {
+        code: 0
+    }
+})
+
+
 
 // 1. 向数据库“增加”数据 --->实例.save()
 // 定义一个接口: addPerson，接口类型为post，需要给接口传name和age字段
