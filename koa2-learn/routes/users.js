@@ -2,9 +2,9 @@ const router = require('koa-router')()
 const Redis = require('koa-redis')
 const Person = require('../dbs/models/person') // 引入模型model
 
-
 const Store = new Redis().client // 新建 Redis 客户端---通过Store对象拿到Redis客户端
 // 这个客户端就是我们的服务器程序
+
 router.prefix('/users')
 
 router.get('/', function (ctx, next) {
