@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!--理解为<router-view>-->
     <nuxt/>
     <my-footer/>
   </div>
