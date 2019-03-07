@@ -2,7 +2,7 @@
     <div>
       Page is search
       <ul>
-        <li v-for="(item,idx) in list" :key="idx">{{item}}</li>
+        <li v-for="(item,idx) in $store.state.navbar.app" :key="idx">{{item}}</li>
       </ul>
     </div>
 </template>
