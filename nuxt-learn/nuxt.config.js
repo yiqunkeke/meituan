@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'nuxt-learn', // 页面标题
+    title: 'nuxt-learn', // 配置页面标题
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -14,7 +14,7 @@ module.exports = {
     ]
   },
   /*
-  ** Global CSS
+  ** Global CSS 配置全局css样式
   */
   css: ['~assets/css/main.css'],
   /*
@@ -29,7 +29,7 @@ module.exports = {
      ** Run ESLINT on save
      */
     extend (config, ctx) {
-      if (ctx.isClient) {
+      if (ctx.Client) {
         config.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,

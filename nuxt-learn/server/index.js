@@ -1,6 +1,10 @@
 import Koa from 'koa'
 import { Nuxt, Builder } from 'nuxt'
-import cityInterface from './interface/city'
+import cityInterface from '../interface/city' // 引入koa路由
+/**
+ *  注意路径问题：一个点 . 表示当前目录
+ *               两个点 .. 表示当前目录的上级目录
+ */
 
 async function start () {
   const app = new Koa()
@@ -20,8 +24,7 @@ async function start () {
     await builder.build()
   }
 
-  app.use(cityInterface.routes()).use(cityInterface.allowedMethods()) // 测试 cityInterface接口---既定写法
-  // curl http://localhost:3000/city/list
+  app.use(cityInterface.routes()).use(cityInterface.allowedMethods()) // 使用koa路由
   app.use(ctx => {
     ctx.status = 200
     ctx.respond = false // Mark request as handled for Koa

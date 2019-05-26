@@ -1,22 +1,22 @@
 const state = () => ({
-  list: ['a', 'b']
+    list: ['a', 'b']
 })
 
 const mutations = {
-  add(state, text) {
-    state.list.push(text)
-  }
+    add(state, text) {
+        state.list.push(text)
+    }
 }
 
 const actions = {
-  add: ({commit}, text) => {
-    commit('add', text)
-  }
+    add({commit},text){
+        commit('add', text)
+    }
 }
 
 export default {
-  namespaced: true,
-  state,
-  mutations,
-  actions
+    namespaced: true,
+    state,
+    mutations,
+    actions
 }
