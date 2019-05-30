@@ -1,5 +1,6 @@
 const pkg = require('./package')
 
+
 module.exports = {
   mode: 'universal',
 
@@ -13,7 +14,9 @@ module.exports = {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: pkg.description }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ]
   },
 
   /*
@@ -27,49 +30,32 @@ module.exports = {
   css: [
     'element-ui/lib/theme-chalk/reset.css',
     'element-ui/lib/theme-chalk/index.css',
-    '@assets/css/main.css'
+    '@/assets/css/main.css'
   ],
 
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: ['@/plugins/element-ui'],
+  plugins: [
+    '@/plugins/element-ui'
+  ],
 
   /*
   ** Nuxt.js modules
   */
   modules: [
-    // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/axios',
-    '@nuxtjs/pwa'
   ],
-  /*
-  ** Axios module configuration
-  */
-  axios: {
-    // See https://github.com/nuxt-community/axios-module#options
-  },
 
   /*
   ** Build configuration
   */
   build: {
     transpile: [/^element-ui/],
-
+    
     /*
     ** You can extend webpack config here
     */
     extend(config, ctx) {
-      // Run ESLint on save
-      if (ctx.isDev && ctx.isClient) {
-        config.module.rules.push({
-          enforce: 'pre',
-          test: /\.(js|vue)$/,
-          loader: 'eslint-loader',
-          exclude: /(node_modules)/
-        })
-      }
-    },
-    cache: true
+    }
   }
 }

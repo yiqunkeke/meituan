@@ -6,10 +6,11 @@
 }
 
 .el-header{
-    background: #F8F8F8;
+    background: #F8F8F8 !important;
     color: #999;
     width: 100%;
     font-size: 12px;
+    height: auto !important;
     .m-header{
         width: 1190px;
         margin: 0 auto;

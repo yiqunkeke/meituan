@@ -1,6 +1,6 @@
 # mt-app
 
-> My bee&#39;s knees Nuxt.js project
+> My swell Nuxt.js project
 
 ## Build Setup
 
