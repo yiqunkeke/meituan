@@ -33,6 +33,7 @@
 </template>
 
 <script>
+import CryptoJS from 'crypto-js'; // 这个包用来加密（通常使用它的 md5）
 export default {
   layout: "blank",
   data() {
@@ -44,8 +45,30 @@ export default {
     };
   },
   methods: {
-      login(){
+      login() {
+        let self = this
+        self.$axios.post('/users/signin', {
+            username: window.encodeURIComponent(self.username),
+            password: CryptoJS.MD5(self.password).toString()
+        }).then(({status, data}) => {
+            if(status === 200) {
+                if(data && data.code === 0) {
+                    // 登录成功
+                    // location.href = "/"
+                } else {
+                    // 登录失败
+                    self.error = data.msg
+                }
+            } else {
+                self.error = `服务器出错，错误码：${status}`
+            }
 
+             // 定时清空 error 信息
+             // (因为我们一直在对 error 进行赋值，导致error里面一直有值)
+             setTimeout(function() {
+                self.error = ""
+             }, 3000)      
+        })
       }
   }
 };

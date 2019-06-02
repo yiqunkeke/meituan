@@ -44,6 +44,7 @@ module.exports = {
   ** Nuxt.js modules
   */
   modules: [
+    '@nuxtjs/axios' // 需要 npm i @nuxtjs/axios 进行安装，否则报 cant find module @nuxtjs/axios
   ],
 
   /*
