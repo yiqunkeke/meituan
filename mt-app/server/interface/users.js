@@ -22,10 +22,6 @@ router.post('/signup', async (ctx) => {
         email,
         code
     } = ctx.request.body; // 通过解构赋值，拿到注册时存放在ctx.request.body中的 username,password,email,code
-    
-    
-    console.log(ctx.request.body)
-    console.log(username, password, email)
 
     // 校验code（nodemailer 在发验证码的时候，会在 redis中保存一份）
     if (code) {

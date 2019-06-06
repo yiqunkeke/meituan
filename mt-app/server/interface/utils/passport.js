@@ -13,8 +13,6 @@ passport.use(new LocalStrategy(async function (username, password, done) {
         if (result.password === password) {
             return done(null, result)
         } else {
-            console.log(result.password);
-            console.log(password);
             return done(null, false, '密码错误')
         }
     } else {

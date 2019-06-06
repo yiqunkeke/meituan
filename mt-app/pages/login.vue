@@ -54,7 +54,7 @@ export default {
             if(status === 200) {
                 if(data && data.code === 0) {
                     // 登录成功
-                    // location.href = "/"
+                    location.href = "/"
                 } else {
                     // 登录失败
                     self.error = data.msg

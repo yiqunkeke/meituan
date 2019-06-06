@@ -156,14 +156,14 @@ export default {
             if(valid) {
                 self.$axios.post('/users/signup', {
                     username: window.encodeURIComponent(self.ruleForm.name), // 用户名有可能输入的是中文，所以这里需要使用 encodeURIComponent()
-                    password: CryptoJS.MD5(self.ruleForm.password).toString(), // 注意：1. MD5()方法一定要使用大写。2.加密之后是数组，一定要再使用toString()方法。
+                    password: CryptoJS.MD5(self.ruleForm.pwd).toString(), // 注意：1. MD5()方法一定要使用大写。2.加密之后是数组，一定要再使用toString()方法。
                     email: self.ruleForm.email,
                     code: self.ruleForm.code
                 }).then(({status, data}) => {
                     if(status === 200) {
                         if(data && data.code ===0){
                             // 注册成功
-                            // location.href = '/login'
+                            location.href = '/login'
                         } else {
                             // 注册失败
                             self.error = data.msg
