@@ -8,6 +8,7 @@ let router = new Router({ prefix: '/geo' })
 
 const sign = 'abcd';
 
+// 获取-当前所在城市
 router.get('/getPosition', async (ctx) => {
     let {
         status,
@@ -50,6 +51,7 @@ router.get('/province', async (ctx) => {
     // }
 })
 
+// 获取-某个省份详情
 router.get('/province/:id', async (ctx) => {
     let city = await City.findOne({id: ctx.params.id})
     
@@ -73,6 +75,7 @@ router.get('/province/:id', async (ctx) => {
     // }
 })
 
+// 获取-所有城市
 router.get('/city', async (ctx) => {
     let city = []
     let result = await City.find()
@@ -105,6 +108,7 @@ router.get('/city', async (ctx) => {
     // }
 })
 
+// 获取-热门城市
 router.get('/hotCity', async (ctx) => {
     let list = [
       '北京市',
