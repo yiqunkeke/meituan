@@ -5,7 +5,7 @@ const state = () => ({
 
 const mutations = {
     setMenu(state, value) {
-        console.log(value);
+        // console.log(value);
         state.menu = value
     },
     setHotPlace(state, value) {

@@ -2,6 +2,7 @@ import Router from 'koa-router';
 import axios from './utils/axios'
 import Province from '../dbs/models/province'
 import Menu from '../dbs/models/menu'
+import City from '../dbs/models/city'
 
 let router = new Router({ prefix: '/geo' })
 
@@ -28,6 +29,7 @@ router.get('/getPosition', async (ctx) => {
     }
 })
 
+// 获取-所有省份
 router.get('/province', async (ctx) => {
     let province = await Province.find()
     ctx.body = {
@@ -138,6 +140,7 @@ router.get('/hotCity', async (ctx) => {
     // }
 })
 
+// 获取-首页-菜单数据
 router.get('/menu', async (ctx) => {
     const result = await Menu.findOne()
     ctx.body = {
