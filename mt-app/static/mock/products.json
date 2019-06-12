@@ -1,0 +1,4901 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "美食",
+            "url": null,
+            "pinyin": "meishi",
+            "children": [
+                {
+                    "id": 21413,
+                    "name": "食品保健",
+                    "url": null,
+                    "pinyin": "shipinbaojian"
+                },
+                {
+                    "id": 21404,
+                    "name": "特色菜",
+                    "url": null,
+                    "pinyin": "tesecai"
+                },
+                {
+                    "id": 401,
+                    "name": "福建菜",
+                    "url": null,
+                    "pinyin": "fujiancai"
+                },
+                {
+                    "id": 20059,
+                    "name": "日本菜",
+                    "url": null,
+                    "pinyin": "ribencai"
+                },
+                {
+                    "id": 21329,
+                    "name": "饮品店",
+                    "url": null,
+                    "pinyin": "yinpindian"
+                },
+                {
+                    "id": 11,
+                    "name": "面包甜点",
+                    "url": null,
+                    "pinyin": "mianbaotiandian"
+                },
+                {
+                    "id": 20097,
+                    "name": "生日蛋糕",
+                    "url": null,
+                    "pinyin": "shengridangao"
+                },
+                {
+                    "id": 17,
+                    "name": "火锅",
+                    "url": null,
+                    "pinyin": "huoguo"
+                },
+                {
+                    "id": 40,
+                    "name": "自助餐",
+                    "url": null,
+                    "pinyin": "zizhucan"
+                },
+                {
+                    "id": 36,
+                    "name": "小吃快餐",
+                    "url": null,
+                    "pinyin": "kuaican"
+                },
+                {
+                    "id": 28,
+                    "name": "日韩料理",
+                    "url": null,
+                    "pinyin": "ribenliaoli"
+                },
+                {
+                    "id": 35,
+                    "name": "西餐",
+                    "url": null,
+                    "pinyin": "xican"
+                },
+                {
+                    "id": 395,
+                    "name": "聚餐宴请",
+                    "url": null,
+                    "pinyin": "jucanyanqing"
+                },
+                {
+                    "id": 54,
+                    "name": "烧烤烤肉",
+                    "url": null,
+                    "pinyin": "kaorou"
+                },
+                {
+                    "id": 524,
+                    "name": "大闸蟹",
+                    "url": null,
+                    "pinyin": "dazhaxie"
+                },
+                {
+                    "id": 55,
+                    "name": "川湘菜",
+                    "url": null,
+                    "pinyin": "chuancai"
+                },
+                {
+                    "id": 56,
+                    "name": "江浙菜",
+                    "url": null,
+                    "pinyin": "jiangzhecai"
+                },
+                {
+                    "id": 20004,
+                    "name": "香锅烤鱼",
+                    "url": null,
+                    "pinyin": "xiangguokaoyu"
+                },
+                {
+                    "id": 528,
+                    "name": "小龙虾",
+                    "url": null,
+                    "pinyin": "xiaolongxia"
+                },
+                {
+                    "id": 57,
+                    "name": "粤菜",
+                    "url": null,
+                    "pinyin": "yuegangcai"
+                },
+                {
+                    "id": 400,
+                    "name": "中式烧烤\u002F烤串",
+                    "url": null,
+                    "pinyin": "shaokaokaochuan"
+                },
+                {
+                    "id": 58,
+                    "name": "西北菜",
+                    "url": null,
+                    "pinyin": "xibeicai"
+                },
+                {
+                    "id": 60,
+                    "name": "云贵菜",
+                    "url": null,
+                    "pinyin": "yunguicai"
+                },
+                {
+                    "id": 526,
+                    "name": "徽菜",
+                    "url": null,
+                    "pinyin": "huicai"
+                },
+                {
+                    "id": 20150,
+                    "name": "北京菜",
+                    "url": null,
+                    "pinyin": "beijingcai"
+                },
+                {
+                    "id": 20638,
+                    "name": "生鲜蔬果",
+                    "url": null,
+                    "pinyin": "meishi_shengxianshuguo"
+                },
+                {
+                    "id": 20151,
+                    "name": "鲁菜",
+                    "url": null,
+                    "pinyin": "lucai"
+                },
+                {
+                    "id": 20003,
+                    "name": "东北菜",
+                    "url": null,
+                    "pinyin": "dongbeicai"
+                },
+                {
+                    "id": 62,
+                    "name": "东南亚菜",
+                    "url": null,
+                    "pinyin": "dongnanya"
+                },
+                {
+                    "id": 63,
+                    "name": "江河湖海鲜",
+                    "url": null,
+                    "pinyin": "jianghehuhaixian"
+                },
+                {
+                    "id": 227,
+                    "name": "台湾\u002F客家菜",
+                    "url": null,
+                    "pinyin": "taiwancai"
+                },
+                {
+                    "id": 229,
+                    "name": "汤\u002F粥\u002F炖菜",
+                    "url": null,
+                    "pinyin": "zhoutangduncai"
+                },
+                {
+                    "id": 232,
+                    "name": "蒙餐",
+                    "url": null,
+                    "pinyin": "mengcan"
+                },
+                {
+                    "id": 233,
+                    "name": "新疆菜",
+                    "url": null,
+                    "pinyin": "xinjiangcai"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "酒店住宿",
+            "url": null,
+            "pinyin": "jiudian",
+            "children": [
+                {
+                    "id": 21145,
+                    "name": "情侣酒店",
+                    "url": null,
+                    "pinyin": "qinglvjiudian"
+                },
+                {
+                    "id": 79,
+                    "name": "经济型酒店",
+                    "url": null,
+                    "pinyin": "jingjijiudian"
+                },
+                {
+                    "id": 80,
+                    "name": "高端酒店",
+                    "url": null,
+                    "pinyin": "haohuajiudian"
+                },
+                {
+                    "id": 20706,
+                    "name": "高星酒店",
+                    "url": null,
+                    "pinyin": "gaoxingjiudian"
+                },
+                {
+                    "id": 384,
+                    "name": "客栈",
+                    "url": null,
+                    "pinyin": "kezhan"
+                },
+                {
+                    "id": 20769,
+                    "name": "低星酒店",
+                    "url": null,
+                    "pinyin": "dixingjiudian"
+                },
+                {
+                    "id": 20780,
+                    "name": "公寓民宿",
+                    "url": null,
+                    "pinyin": "gongyuminsu"
+                },
+                {
+                    "id": 20781,
+                    "name": "多人出行",
+                    "url": null,
+                    "pinyin": "duorenchuxing"
+                },
+                {
+                    "id": 20995,
+                    "name": "品牌连锁",
+                    "url": null,
+                    "pinyin": "pinpailiansuo"
+                }
+            ]
+        },
+        {
+            "id": 195,
+            "name": "周边游",
+            "url": null,
+            "pinyin": "mobile_poi_zhoubianyou",
+            "children": [
+                {
+                    "id": 296,
+                    "name": "景点",
+                    "url": null,
+                    "pinyin": "youle"
+                },
+                {
+                    "id": 304,
+                    "name": "温泉",
+                    "url": null,
+                    "pinyin": "wenquan"
+                },
+                {
+                    "id": 297,
+                    "name": "主题公园",
+                    "url": null,
+                    "pinyin": "zhutigongyuan"
+                },
+                {
+                    "id": 301,
+                    "name": "展览馆",
+                    "url": null,
+                    "pinyin": "zhanlanguan"
+                },
+                {
+                    "id": 299,
+                    "name": "动植物园",
+                    "url": null,
+                    "pinyin": "dongzhiwuyuan"
+                },
+                {
+                    "id": 20175,
+                    "name": "酒景套餐",
+                    "url": null,
+                    "pinyin": "jiujingtaocan"
+                },
+                {
+                    "id": 309,
+                    "name": "农家乐",
+                    "url": null,
+                    "pinyin": "nongjiale"
+                },
+                {
+                    "id": 300,
+                    "name": "海洋馆",
+                    "url": null,
+                    "pinyin": "haiyangguan"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "休闲娱乐",
+            "url": null,
+            "pinyin": "xiuxianyule",
+            "children": [
+                {
+                    "id": 21194,
+                    "name": "新奇体验",
+                    "url": null,
+                    "pinyin": "xinqitiyan"
+                },
+                {
+                    "id": 21193,
+                    "name": "团建拓展",
+                    "url": null,
+                    "pinyin": "tuanjiantuozhan"
+                },
+                {
+                    "id": 52,
+                    "name": "足疗\u002F按摩",
+                    "url": null,
+                    "pinyin": "zuliaoxiuxian"
+                },
+                {
+                    "id": 112,
+                    "name": "洗浴\u002F汗蒸",
+                    "url": null,
+                    "pinyin": "xiyuhanzheng"
+                },
+                {
+                    "id": 10,
+                    "name": "KTV",
+                    "url": null,
+                    "pinyin": "pc_ktv"
+                },
+                {
+                    "id": 234,
+                    "name": "酒吧",
+                    "url": null,
+                    "pinyin": "jiuba"
+                },
+                {
+                    "id": 38,
+                    "name": "电玩\u002F游戏厅",
+                    "url": null,
+                    "pinyin": "dianwanyouxiting"
+                },
+                {
+                    "id": 39,
+                    "name": "运动健身",
+                    "url": null,
+                    "pinyin": "jianshen"
+                },
+                {
+                    "id": 20104,
+                    "name": "私人影院",
+                    "url": null,
+                    "pinyin": "sirenyingyuan"
+                },
+                {
+                    "id": 218,
+                    "name": "DIY手工坊",
+                    "url": null,
+                    "pinyin": "diy"
+                },
+                {
+                    "id": 230,
+                    "name": "密室逃脱",
+                    "url": null,
+                    "pinyin": "mishitaotuo"
+                },
+                {
+                    "id": 20770,
+                    "name": "网吧网咖",
+                    "url": null,
+                    "pinyin": "wangba\u002Fdianjing"
+                },
+                {
+                    "id": 20772,
+                    "name": "茶馆",
+                    "url": null,
+                    "pinyin": "chaguan"
+                },
+                {
+                    "id": 20776,
+                    "name": "棋牌室",
+                    "url": null,
+                    "pinyin": "qipaishi"
+                },
+                {
+                    "id": 20773,
+                    "name": "轰趴馆",
+                    "url": null,
+                    "pinyin": "hongpaguan"
+                },
+                {
+                    "id": 20777,
+                    "name": "桌游",
+                    "url": null,
+                    "pinyin": "桌游"
+                },
+                {
+                    "id": 516,
+                    "name": "采摘\u002F农家乐",
+                    "url": null,
+                    "pinyin": "caizhainongjiale"
+                },
+                {
+                    "id": 20779,
+                    "name": "VR",
+                    "url": null,
+                    "pinyin": "VR"
+                },
+                {
+                    "id": 21131,
+                    "name": "文化艺术",
+                    "url": null,
+                    "pinyin": "wenhuayishu"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "生活服务",
+            "url": null,
+            "pinyin": "shenghuo",
+            "children": [
+                {
+                    "id": 21246,
+                    "name": "送奶",
+                    "url": null,
+                    "pinyin": "sonnai"
+                },
+                {
+                    "id": 20455,
+                    "name": "回收",
+                    "url": null,
+                    "pinyin": "huishou"
+                },
+                {
+                    "id": 21234,
+                    "name": "心理咨询",
+                    "url": null,
+                    "pinyin": "xinlizixun"
+                },
+                {
+                    "id": 21172,
+                    "name": "彩票",
+                    "url": null,
+                    "pinyin": "caipiao"
+                },
+                {
+                    "id": 21171,
+                    "name": "丧葬",
+                    "url": null,
+                    "pinyin": "sangzang"
+                },
+                {
+                    "id": 21170,
+                    "name": "福利机构",
+                    "url": null,
+                    "pinyin": "fulijigou"
+                },
+                {
+                    "id": 20112,
+                    "name": "洗涤护理",
+                    "url": null,
+                    "pinyin": "yiwupijuxihu"
+                },
+                {
+                    "id": 20113,
+                    "name": "家政服务",
+                    "url": null,
+                    "pinyin": "jiazhengfuwu"
+                },
+                {
+                    "id": 20196,
+                    "name": "证件照",
+                    "url": null,
+                    "pinyin": "zhengjianzhao"
+                },
+                {
+                    "id": 221,
+                    "name": "照片冲印",
+                    "url": null,
+                    "pinyin": "zhaopianchongyin"
+                },
+                {
+                    "id": 20128,
+                    "name": "汽车服务",
+                    "url": null,
+                    "pinyin": "qiche"
+                },
+                {
+                    "id": 20454,
+                    "name": "搬家",
+                    "url": null,
+                    "pinyin": "banjia"
+                },
+                {
+                    "id": 20110,
+                    "name": "宠物服务",
+                    "url": null,
+                    "pinyin": "chongwufuwu"
+                },
+                {
+                    "id": 32,
+                    "name": "体检\u002F齿科",
+                    "url": null,
+                    "pinyin": "tijian"
+                },
+                {
+                    "id": 20453,
+                    "name": "送水站",
+                    "url": null,
+                    "pinyin": "songshuizhan"
+                },
+                {
+                    "id": 20456,
+                    "name": "管道疏通",
+                    "url": null,
+                    "pinyin": "guandaoshutong"
+                },
+                {
+                    "id": 21124,
+                    "name": "金融",
+                    "url": null,
+                    "pinyin": "jinrong"
+                },
+                {
+                    "id": 20474,
+                    "name": "居家维修",
+                    "url": null,
+                    "pinyin": "jujiaweixiu"
+                },
+                {
+                    "id": 20458,
+                    "name": "电脑维修",
+                    "url": null,
+                    "pinyin": "diannaoweixiu"
+                },
+                {
+                    "id": 20459,
+                    "name": "家电维修",
+                    "url": null,
+                    "pinyin": "jiadianweixiu"
+                },
+                {
+                    "id": 20460,
+                    "name": "手机维修",
+                    "url": null,
+                    "pinyin": "shoujiweixiu"
+                },
+                {
+                    "id": 20283,
+                    "name": "健康服务",
+                    "url": null,
+                    "pinyin": "jiankangfuwu"
+                },
+                {
+                    "id": 65,
+                    "name": "鲜花",
+                    "url": null,
+                    "pinyin": "xianhua"
+                },
+                {
+                    "id": 68,
+                    "name": "配镜",
+                    "url": null,
+                    "pinyin": "peijing"
+                },
+                {
+                    "id": 67,
+                    "name": "母婴亲子",
+                    "url": null,
+                    "pinyin": "muyingqinzi"
+                },
+                {
+                    "id": 20111,
+                    "name": "充值服务",
+                    "url": null,
+                    "pinyin": "chongzhifuwu"
+                },
+                {
+                    "id": 20057,
+                    "name": "服饰鞋包",
+                    "url": null,
+                    "pinyin": "fushixiebao"
+                },
+                {
+                    "id": 20457,
+                    "name": "开锁",
+                    "url": null,
+                    "pinyin": "kaisuo"
+                },
+                {
+                    "id": 235,
+                    "name": "商场购物卡",
+                    "url": null,
+                    "pinyin": "gouwuka"
+                },
+                {
+                    "id": 20093,
+                    "name": "婚庆",
+                    "url": null,
+                    "pinyin": "hunqing"
+                },
+                {
+                    "id": 21006,
+                    "name": "商务服务",
+                    "url": null,
+                    "pinyin": "shangwufuwu"
+                },
+                {
+                    "id": 20443,
+                    "name": "房屋地产",
+                    "url": null,
+                    "pinyin": "fangwudichan"
+                },
+                {
+                    "id": 21007,
+                    "name": "文化传媒",
+                    "url": null,
+                    "pinyin": "wenhuachuanmei"
+                }
+            ]
+        },
+        {
+            "id": 20375,
+            "name": "宴会",
+            "url": null,
+            "pinyin": "yanhui",
+            "children": [
+                {
+                    "id": 21149,
+                    "name": "婚礼会所",
+                    "url": null,
+                    "pinyin": "hunlihuisuo"
+                },
+                {
+                    "id": 21148,
+                    "name": "特色餐厅",
+                    "url": null,
+                    "pinyin": "tesecanying"
+                },
+                {
+                    "id": 21147,
+                    "name": "酒店宴会厅",
+                    "url": null,
+                    "pinyin": "xingjijiudian"
+                }
+            ]
+        },
+        {
+            "id": 20383,
+            "name": "时尚购",
+            "url": null,
+            "pinyin": "shishanggou",
+            "children": [
+                {
+                    "id": 20384,
+                    "name": "本地购物",
+                    "url": null,
+                    "pinyin": "bendigouwu"
+                },
+                {
+                    "id": 20386,
+                    "name": "配镜",
+                    "url": null,
+                    "pinyin": "peijing"
+                },
+                {
+                    "id": 20387,
+                    "name": "鲜花",
+                    "url": null,
+                    "pinyin": "xianhua"
+                },
+                {
+                    "id": 20704,
+                    "name": "超市\u002F便利店",
+                    "url": null,
+                    "pinyin": "chaoshibianlidian"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "旅游",
+            "url": null,
+            "pinyin": "lvyou",
+            "children": [
+                {
+                    "id": 226,
+                    "name": "国内游",
+                    "url": null,
+                    "pinyin": "guoneiyou"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "丽人",
+            "url": null,
+            "pinyin": "jiankangliren",
+            "children": [
+                {
+                    "id": 21394,
+                    "name": "养发",
+                    "url": null,
+                    "pinyin": "yangfa"
+                },
+                {
+                    "id": 74,
+                    "name": "美发",
+                    "url": null,
+                    "pinyin": "meifa"
+                },
+                {
+                    "id": 76,
+                    "name": "美容美体",
+                    "url": null,
+                    "pinyin": "meirongmeiti"
+                },
+                {
+                    "id": 75,
+                    "name": "美甲美睫",
+                    "url": null,
+                    "pinyin": "meijiameijie"
+                },
+                {
+                    "id": 20423,
+                    "name": "医学美容",
+                    "url": null,
+                    "pinyin": "zhengxing"
+                },
+                {
+                    "id": 220,
+                    "name": "瑜伽舞蹈",
+                    "url": null,
+                    "pinyin": "yujiawudao"
+                },
+                {
+                    "id": 20422,
+                    "name": "瘦身纤体",
+                    "url": null,
+                    "pinyin": "shoushenxianti"
+                },
+                {
+                    "id": 20419,
+                    "name": "韩式定妆",
+                    "url": null,
+                    "pinyin": "hanshidingzhuang"
+                },
+                {
+                    "id": 20421,
+                    "name": "祛痘",
+                    "url": null,
+                    "pinyin": "qudou"
+                },
+                {
+                    "id": 20420,
+                    "name": "纹身",
+                    "url": null,
+                    "pinyin": "wenshen"
+                },
+                {
+                    "id": 20418,
+                    "name": "化妆品",
+                    "url": null,
+                    "pinyin": "huazhuangpin"
+                }
+            ]
+        },
+        {
+            "id": 20252,
+            "name": "运动健身",
+            "url": null,
+            "pinyin": "yundongjianshen",
+            "children": [
+                {
+                    "id": 20256,
+                    "name": "游泳",
+                    "url": null,
+                    "pinyin": "youyongshuishangyundong"
+                },
+                {
+                    "id": 20253,
+                    "name": "健身中心",
+                    "url": null,
+                    "pinyin": "jianshenfangticaofang"
+                },
+                {
+                    "id": 20257,
+                    "name": "羽毛球",
+                    "url": null,
+                    "pinyin": "yumaoqiu"
+                },
+                {
+                    "id": 20262,
+                    "name": "台球",
+                    "url": null,
+                    "pinyin": "taiqiu"
+                },
+                {
+                    "id": 20266,
+                    "name": "武术",
+                    "url": null,
+                    "pinyin": "wushu"
+                },
+                {
+                    "id": 20261,
+                    "name": "保龄球",
+                    "url": null,
+                    "pinyin": "baolingqiu"
+                },
+                {
+                    "id": 20258,
+                    "name": "篮球",
+                    "url": null,
+                    "pinyin": "lanqiu"
+                },
+                {
+                    "id": 20268,
+                    "name": "滑冰",
+                    "url": null,
+                    "pinyin": "liubingchang"
+                },
+                {
+                    "id": 20270,
+                    "name": "射击射箭",
+                    "url": null,
+                    "pinyin": "shgejishejian"
+                },
+                {
+                    "id": 20259,
+                    "name": "网球",
+                    "url": null,
+                    "pinyin": "wangqiu"
+                },
+                {
+                    "id": 20264,
+                    "name": "足球",
+                    "url": null,
+                    "pinyin": "zuqiu"
+                },
+                {
+                    "id": 20265,
+                    "name": "乒乓球",
+                    "url": null,
+                    "pinyin": "pingpangqiu"
+                },
+                {
+                    "id": 20269,
+                    "name": "壁球",
+                    "url": null,
+                    "pinyin": "biqiu"
+                },
+                {
+                    "id": 20263,
+                    "name": "体育场馆",
+                    "url": null,
+                    "pinyin": "体育场馆"
+                }
+            ]
+        },
+        {
+            "id": 20007,
+            "name": "母婴亲子",
+            "url": null,
+            "pinyin": "qinzi",
+            "children": [
+                {
+                    "id": 21284,
+                    "name": "亲子活动",
+                    "url": null,
+                    "pinyin": "qinzihuodong"
+                },
+                {
+                    "id": 21283,
+                    "name": "亲子会所",
+                    "url": null,
+                    "pinyin": "qinzihuisuo"
+                },
+                {
+                    "id": 21281,
+                    "name": "儿童STEM",
+                    "url": null,
+                    "pinyin": "ertongSTEM"
+                },
+                {
+                    "id": 21279,
+                    "name": "儿童医院",
+                    "url": null,
+                    "pinyin": "ertongyiyuan"
+                },
+                {
+                    "id": 21278,
+                    "name": "小儿推拿",
+                    "url": null,
+                    "pinyin": "xiaoertuina"
+                },
+                {
+                    "id": 20108,
+                    "name": "儿童乐园",
+                    "url": null,
+                    "pinyin": "qinzi-ertongleyuan"
+                },
+                {
+                    "id": 20514,
+                    "name": "婴儿游泳",
+                    "url": null,
+                    "pinyin": "yingeryouyong"
+                },
+                {
+                    "id": 20048,
+                    "name": "儿童摄影",
+                    "url": null,
+                    "pinyin": "ertongxiezhen"
+                },
+                {
+                    "id": 20042,
+                    "name": "母婴护理",
+                    "url": null,
+                    "pinyin": "muyinghuli"
+                },
+                {
+                    "id": 20045,
+                    "name": "幼儿教育",
+                    "url": null,
+                    "pinyin": "ertongpeixun"
+                },
+                {
+                    "id": 20785,
+                    "name": "宝宝派对",
+                    "url": null,
+                    "pinyin": "baobaopaidui"
+                },
+                {
+                    "id": 20517,
+                    "name": "亲子购物",
+                    "url": null,
+                    "pinyin": "qinzigouwu"
+                },
+                {
+                    "id": 20044,
+                    "name": "科普场馆",
+                    "url": null,
+                    "pinyin": "kepuchangguan"
+                },
+                {
+                    "id": 20050,
+                    "name": "采摘\u002F农家乐",
+                    "url": null,
+                    "pinyin": "caizhai"
+                }
+            ]
+        },
+        {
+            "id": 20691,
+            "name": "宠物",
+            "url": null,
+            "pinyin": "chongwu",
+            "children": [
+                {
+                    "id": 21151,
+                    "name": "购宠",
+                    "url": null,
+                    "pinyin": "gouchong"
+                },
+                {
+                    "id": 21150,
+                    "name": "宠物食品用品",
+                    "url": null,
+                    "pinyin": "shipinyongpin"
+                },
+                {
+                    "id": 20692,
+                    "name": "宠物店",
+                    "url": null,
+                    "pinyin": "chongwudian"
+                },
+                {
+                    "id": 20693,
+                    "name": "宠物医院",
+                    "url": null,
+                    "pinyin": "chongwuyiyuan"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "汽车服务",
+            "url": null,
+            "pinyin": "aiche",
+            "children": [
+                {
+                    "id": 21200,
+                    "name": "美容洗车",
+                    "url": null,
+                    "pinyin": "meirongxiche2"
+                },
+                {
+                    "id": 20115,
+                    "name": "洗车",
+                    "url": null,
+                    "pinyin": "xiche"
+                },
+                {
+                    "id": 20120,
+                    "name": "汽车美容",
+                    "url": null,
+                    "pinyin": "meirongxiche"
+                },
+                {
+                    "id": 20118,
+                    "name": "维修保养",
+                    "url": null,
+                    "pinyin": "weixiubaoyang"
+                },
+                {
+                    "id": 20116,
+                    "name": "租车",
+                    "url": null,
+                    "pinyin": "zuche"
+                },
+                {
+                    "id": 20768,
+                    "name": "汽车配件",
+                    "url": null,
+                    "pinyin": "peijianchangshang"
+                },
+                {
+                    "id": 20767,
+                    "name": "汽车改装",
+                    "url": null,
+                    "pinyin": "gaizhuangtiaoyou"
+                },
+                {
+                    "id": 20163,
+                    "name": "4S",
+                    "url": null,
+                    "pinyin": "4Sdian"
+                },
+                {
+                    "id": 20135,
+                    "name": "汽车用品",
+                    "url": null,
+                    "pinyin": "qcyp"
+                },
+                {
+                    "id": 20161,
+                    "name": "停车场",
+                    "url": null,
+                    "pinyin": "tingchechang"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "摄影写真",
+            "url": null,
+            "pinyin": "sheyingxiezhen",
+            "children": [
+                {
+                    "id": 396,
+                    "name": "婚纱摄影",
+                    "url": null,
+                    "pinyin": "hunshaphoto"
+                },
+                {
+                    "id": 398,
+                    "name": "亲子摄影",
+                    "url": null,
+                    "pinyin": "ertongsheying"
+                },
+                {
+                    "id": 397,
+                    "name": "个性写真",
+                    "url": null,
+                    "pinyin": "gexingxiezhen"
+                }
+            ]
+        },
+        {
+            "id": 20285,
+            "name": "学习培训",
+            "url": null,
+            "pinyin": "xuexipeixun",
+            "children": [
+                {
+                    "id": 21358,
+                    "name": "运动培训",
+                    "url": null,
+                    "pinyin": "yundongpeixun"
+                },
+                {
+                    "id": 20321,
+                    "name": "书法培训",
+                    "url": null,
+                    "pinyin": "shufapeixun"
+                },
+                {
+                    "id": 21292,
+                    "name": "成人学历提升",
+                    "url": null,
+                    "pinyin": "chengrenxuelitisheng"
+                },
+                {
+                    "id": 21163,
+                    "name": "在线教育",
+                    "url": null,
+                    "pinyin": "zaixianjiaoyu"
+                },
+                {
+                    "id": 20286,
+                    "name": "语言培训",
+                    "url": null,
+                    "pinyin": "yuyanpeixun"
+                },
+                {
+                    "id": 20287,
+                    "name": "音乐培训",
+                    "url": null,
+                    "pinyin": "yinyuepeixun"
+                },
+                {
+                    "id": 20288,
+                    "name": "美术培训",
+                    "url": null,
+                    "pinyin": "meishupeixun"
+                },
+                {
+                    "id": 20629,
+                    "name": "驾校",
+                    "url": null,
+                    "pinyin": "jiaxiao"
+                },
+                {
+                    "id": 20289,
+                    "name": "教育院校",
+                    "url": null,
+                    "pinyin": "jiaoyuyuanxiao"
+                },
+                {
+                    "id": 20291,
+                    "name": "职业培训",
+                    "url": null,
+                    "pinyin": "zhiyepeixun"
+                },
+                {
+                    "id": 20292,
+                    "name": "升学辅导",
+                    "url": null,
+                    "pinyin": "shengxuefudao"
+                },
+                {
+                    "id": 20293,
+                    "name": "留学",
+                    "url": null,
+                    "pinyin": "liuxue"
+                },
+                {
+                    "id": 20294,
+                    "name": "兴趣生活",
+                    "url": null,
+                    "pinyin": "xingqushenghuo"
+                }
+            ]
+        },
+        {
+            "id": 21365,
+            "name": "交通枢纽",
+            "url": null,
+            "pinyin": "jiaotongshuniu",
+            "children": [
+                {
+                    "id": 21367,
+                    "name": "城际交通",
+                    "url": null,
+                    "pinyin": "chengjijiaotong"
+                },
+                {
+                    "id": 21366,
+                    "name": "市内交通",
+                    "url": null,
+                    "pinyin": "shineijiaotong"
+                }
+            ]
+        },
+        {
+            "id": 20179,
+            "name": "家装",
+            "url": null,
+            "pinyin": "jiazhuang",
+            "children": [
+                {
+                    "id": 21307,
+                    "name": "甲醛检测治理",
+                    "url": null,
+                    "pinyin": "jiaquanjiancezhili"
+                },
+                {
+                    "id": 21136,
+                    "name": "全屋\u002F橱柜定制",
+                    "url": null,
+                    "pinyin": "quanwu\u002Fchuweidingzhi"
+                },
+                {
+                    "id": 20180,
+                    "name": "装修设计",
+                    "url": null,
+                    "pinyin": "zhuangxiusheji"
+                },
+                {
+                    "id": 20183,
+                    "name": "家用电器",
+                    "url": null,
+                    "pinyin": "jiayongdianqi"
+                },
+                {
+                    "id": 20184,
+                    "name": "家装卖场",
+                    "url": null,
+                    "pinyin": "jiazhuangmaichang"
+                },
+                {
+                    "id": 20182,
+                    "name": "装修建材",
+                    "url": null,
+                    "pinyin": "zhuangxiujiancai"
+                },
+                {
+                    "id": 20826,
+                    "name": "厨卫洁具",
+                    "url": null,
+                    "pinyin": "chuweijieju"
+                },
+                {
+                    "id": 20771,
+                    "name": "家具家居",
+                    "url": null,
+                    "pinyin": "jiajujiaju"
+                },
+                {
+                    "id": 20835,
+                    "name": "灯饰照明",
+                    "url": null,
+                    "pinyin": "dengshizhaoming"
+                }
+            ]
+        },
+        {
+            "id": 20178,
+            "name": "结婚",
+            "url": null,
+            "pinyin": "jiehun",
+            "children": [
+                {
+                    "id": 21162,
+                    "name": "海外婚礼",
+                    "url": null,
+                    "pinyin": "haiwaihunli"
+                },
+                {
+                    "id": 20199,
+                    "name": "婚纱礼服",
+                    "url": null,
+                    "pinyin": "hunshalifu"
+                },
+                {
+                    "id": 20200,
+                    "name": "西服定制",
+                    "url": null,
+                    "pinyin": "xifudingzhi"
+                },
+                {
+                    "id": 20201,
+                    "name": "婚庆公司",
+                    "url": null,
+                    "pinyin": "hunqinggongsi"
+                },
+                {
+                    "id": 20641,
+                    "name": "个性写真",
+                    "url": null,
+                    "pinyin": "gexingxiezhenjh"
+                },
+                {
+                    "id": 20198,
+                    "name": "婚纱摄影",
+                    "url": null,
+                    "pinyin": "婚纱摄影"
+                },
+                {
+                    "id": 20202,
+                    "name": "婚戒首饰",
+                    "url": null,
+                    "pinyin": "zhubaoshoushi"
+                },
+                {
+                    "id": 20205,
+                    "name": "彩妆造型",
+                    "url": null,
+                    "pinyin": "caozhuangzaoxing"
+                },
+                {
+                    "id": 20206,
+                    "name": "司仪主持",
+                    "url": null,
+                    "pinyin": "siyizhuchi"
+                },
+                {
+                    "id": 20207,
+                    "name": "婚礼跟拍",
+                    "url": null,
+                    "pinyin": "hunligenpai"
+                },
+                {
+                    "id": 20210,
+                    "name": "婚宴",
+                    "url": null,
+                    "pinyin": "hunyan"
+                },
+                {
+                    "id": 20303,
+                    "name": "旅拍婚照",
+                    "url": null,
+                    "pinyin": "lvyouhunshazhao"
+                }
+            ]
+        },
+        {
+            "id": 20274,
+            "name": "医疗",
+            "url": null,
+            "pinyin": "yiliao",
+            "children": [
+                {
+                    "id": 21423,
+                    "name": "辅助生殖机构",
+                    "url": null,
+                    "pinyin": "fuzhushengzhijigou"
+                },
+                {
+                    "id": 21421,
+                    "name": "医疗器械",
+                    "url": null,
+                    "pinyin": "yiliaoqixie"
+                },
+                {
+                    "id": 20279,
+                    "name": "中医",
+                    "url": null,
+                    "pinyin": "zhongyi"
+                },
+                {
+                    "id": 21265,
+                    "name": "急救中心",
+                    "url": null,
+                    "pinyin": "jijiuzhongxin"
+                },
+                {
+                    "id": 21159,
+                    "name": "眼科医院",
+                    "url": null,
+                    "pinyin": "yankeyiyuan"
+                },
+                {
+                    "id": 21155,
+                    "name": "心血管医院",
+                    "url": null,
+                    "pinyin": "xinxueguanyiyuan"
+                },
+                {
+                    "id": 21152,
+                    "name": "男科医院",
+                    "url": null,
+                    "pinyin": "nankeyiyuan"
+                },
+                {
+                    "id": 20275,
+                    "name": "医院",
+                    "url": null,
+                    "pinyin": "zongheyiyuan"
+                },
+                {
+                    "id": 20276,
+                    "name": "齿科口腔",
+                    "url": null,
+                    "pinyin": "chikekouqiang"
+                },
+                {
+                    "id": 20277,
+                    "name": "体检中心",
+                    "url": null,
+                    "pinyin": "tijianzhongxin"
+                },
+                {
+                    "id": 20278,
+                    "name": "药店",
+                    "url": null,
+                    "pinyin": "yaodian"
+                }
+            ]
+        },
+        {
+            "id": 20966,
+            "name": "榛果民宿",
+            "url": null,
+            "pinyin": "zhenguominsu",
+            "children": []
+        }
+    ],
+    "area": [
+        {
+            "name": "推荐商圈",
+            "children": [
+                {
+                    "id": 688,
+                    "name": "中关村",
+                    "slug": "zhongguancun"
+                },
+                {
+                    "id": 1761,
+                    "name": "远大路",
+                    "slug": "yuandalu"
+                },
+                {
+                    "id": 690,
+                    "name": "牡丹园\u002F北太平庄",
+                    "slug": "beitaipingzhuang"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "districtId": 0,
+            "cityId": 1,
+            "areaId": 0,
+            "type": 0,
+            "name": "海淀区",
+            "slug": "haidianqu",
+            "hot": false,
+            "masterId": 0,
+            "children": [
+                {
+                    "id": 1479,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "双榆树",
+                    "slug": "shuangyushu",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 1761,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "远大路",
+                    "slug": "yuandalu",
+                    "hot": true,
+                    "masterId": 0
+                },
+                {
+                    "id": 1098,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "魏公村",
+                    "slug": "weigongcun",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 692,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "北下关",
+                    "slug": "beixiaguan",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 688,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "中关村",
+                    "slug": "zhongguancun",
+                    "hot": true,
+                    "masterId": 0
+                },
+                {
+                    "id": 695,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "航天桥",
+                    "slug": "hangtianqiao",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 690,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "牡丹园\u002F北太平庄",
+                    "slug": "mudanyuanbeitaipingzhuang",
+                    "hot": true,
+                    "masterId": 0
+                },
+                {
+                    "id": 694,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "紫竹桥",
+                    "slug": "zizhuqiao",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 1241,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "大钟寺",
+                    "slug": "dazhongsi",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 1242,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "知春路",
+                    "slug": "zhichunlu",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 7772,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "香山\u002F植物园",
+                    "slug": "xiangshanzhiwuyuan",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 8042,
+                    "districtId": 17,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "人民大学",
+                    "slug": "renmindaxue",
+                    "hot": false,
+                    "masterId": 0
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "districtId": 0,
+            "cityId": 1,
+            "areaId": 0,
+            "type": 0,
+            "name": "丰台区",
+            "slug": "fengtaiqu",
+            "hot": false,
+            "masterId": 0,
+            "children": [
+                {
+                    "id": 1768,
+                    "districtId": 20,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "北京南站\u002F开阳里",
+                    "slug": "beijingnanzhankaiyangli",
+                    "hot": false,
+                    "masterId": 0
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "districtId": 0,
+            "cityId": 1,
+            "areaId": 0,
+            "type": 0,
+            "name": "西城区",
+            "slug": "xichengqu",
+            "hot": false,
+            "masterId": 0,
+            "children": [
+                {
+                    "id": 1487,
+                    "districtId": 16,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "后海\u002F什刹海",
+                    "slug": "houhaishichahai",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 685,
+                    "districtId": 16,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "西直门\u002F动物园",
+                    "slug": "xizhimendongwuyuan",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 1485,
+                    "districtId": 16,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "西四",
+                    "slug": "xisi",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 682,
+                    "districtId": 16,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "西单",
+                    "slug": "xidan",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 684,
+                    "districtId": 16,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "阜成门",
+                    "slug": "fuchengmen",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 686,
+                    "districtId": 16,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "新街口",
+                    "slug": "xinjiekou",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 1486,
+                    "districtId": 16,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "月坛",
+                    "slug": "yuetan",
+                    "hot": false,
+                    "masterId": 0
+                },
+                {
+                    "id": 15852,
+                    "districtId": 16,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "金融街",
+                    "slug": "jinrongjie",
+                    "hot": false,
+                    "masterId": 0
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "districtId": 0,
+            "cityId": 1,
+            "areaId": 0,
+            "type": 0,
+            "name": "东城区",
+            "slug": "dongchengqu",
+            "hot": false,
+            "masterId": 0,
+            "children": [
+                {
+                    "id": 14092,
+                    "districtId": 15,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "崇文门新世界",
+                    "slug": "chongwenmxsj",
+                    "hot": false,
+                    "masterId": 0
+                }
+            ]
+        },
+        {
+            "id": 172,
+            "districtId": 0,
+            "cityId": 1,
+            "areaId": 0,
+            "type": 0,
+            "name": "石景山区",
+            "slug": "shijingshanqu",
+            "hot": false,
+            "masterId": 0,
+            "children": [
+                {
+                    "id": 1030,
+                    "districtId": 172,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "苹果园",
+                    "slug": "pingguoyuan01",
+                    "hot": false,
+                    "masterId": 0
+                }
+            ]
+        },
+        {
+            "id": 4751,
+            "districtId": 0,
+            "cityId": 1,
+            "areaId": 0,
+            "type": 0,
+            "name": "通州区",
+            "slug": "tongzhouqu",
+            "hot": false,
+            "masterId": 0,
+            "children": [
+                {
+                    "id": 16688,
+                    "districtId": 4751,
+                    "cityId": 1,
+                    "areaId": 0,
+                    "type": 1,
+                    "name": "宋庄",
+                    "slug": "songzhuang",
+                    "hot": false,
+                    "masterId": 0
+                }
+            ]
+        },
+        {
+            "id": 4752,
+            "districtId": 0,
+            "cityId": 1,
+            "areaId": 0,
+            "type": 0,
+            "name": "大兴区",
+            "slug": "daxingqu",
+            "hot": false,
+            "masterId": 0,
+            "children": []
+        }
+    ],
+    "city": {
+        "id": 1,
+        "name": "北京",
+        "pinyin": "beijing",
+        "acronym": "bj",
+        "onlineTime": "1267632000",
+        "open": true,
+        "rank": "S",
+        "locationId": "110000",
+        "position": {
+            "lat": 39.9046669,
+            "lng": 116.4081955
+        },
+        "divisionStr": "北京--北京",
+        "originGeotagID": 0,
+        "realLocationID": "110000",
+        "provinceLocationID": "110000",
+        "gisID": "110100",
+        "chineseFullName": "北京市",
+        "isHot": 1,
+        "firstChar": "B",
+        "originCityID": 0,
+        "recommend": 1,
+        "newIndex": 1,
+        "endTime": "2000000000"
+    },
+    "data": [
+        {
+            "id": 168923763,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp0.meituan.net\u002F180.180\u002Fwedding\u002Fe6aa4f9fa9b22ae899d03f71405cac4814780.png",
+            "title": "痘博士全国连锁祛痘机构（车公庄店）",
+            "address": "西城区西直门南小街玉廊西园11号楼底商106号",
+            "lowestprice": 5,
+            "avgprice": 1458,
+            "latitude": 39.929126,
+            "longitude": 116.359776,
+            "showType": "beauty",
+            "avgscore": 5,
+            "comments": 36,
+            "historyCouponCount": 55,
+            "backCateName": "祛痘",
+            "areaname": "西城区",
+            "tag": [],
+            "cate": [
+                22,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "30元\u002F券，-[签约祛痘]脸部细胞祛痘套餐"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 39271106,
+                    "title": "[签约祛痘]脸部细胞祛痘套餐（2次）",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 30,
+                    "value": 936,
+                    "sales": 1874,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园2.5km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=B49THLlZ9YjkETSQEDG1N2dlx2QTskWpGpoEPQdS_fz9ufWUrrvdGMF0Skv60ggDrYxLy52gml65sFEkCDDIbhCEovp5meIoNodbkLOKm7D8q7-aG9f3Z3PIimCCob_A56D4nkKVVyuXoFdpkpmEzWdZltuZ4X4VfTSQ2MUeoFmfMoU5RIldnMGdVD0b58CIhliIfiflvnWfuOmQjusvhIpZ5H1Kj6XTkRHJWYbafB9IYPa4IAjwlTzz5hTIQLhNq_zlLQ2P0C_nMaTKONUm4NsDAk2D2erYLR9Peg4pTtpTkq7zYqZRD5YdmArlTC_GQbXoQO1ilSC3X2js-IXMuLEFv2M&sver=2&ad_v=1&ad_ci=B49THLlLKTS0OSoKdDPFM-LFkqx3mwarCgmTX5LaVLO0MJj2hjGS7QozQVXhy4PEGIdIOw4YKVrokUNDIQ8bIOxgQ3i2blHGkzOpqpikySZqtQ8&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=B49THLlZ9YjkETSQEDG1N2dlx2QTskWpGpoEPQdS_fz9ufWUrrvdGMF0Skv60ggDrYxLy52gml65sFEkCDDIbhCEovp5meIoNodbkLOKm7D8q7-aG9f3Z3PIimCCob_A56D4nkKVVyuXoFdpkpmEzWdZltuZ4X4VfTSQ2MUeoFmfMoU5RIldnMGdVD0b58CIhliIfiflvnWfuOmQjusvhIpZ5H1Kj6XTkRHJWYbafB9IYPa4IAjwlTzz5hTIQLhNq_zlLQ2P0C_nMaTKONUm4NsDAk2D2erYLR9Peg4pTtpTkq7zYqZRD5YdmArlTC_GQbXoQO1ilSC3X2js-IXMuLEFv2M&sver=2&ad_v=1&ad_ci=B49THLlLKTS0OSoKdDPFM-LFkqx3mwarCgmTX5LaVLO0MJj2hjGS7QozQVXhy4PEGIdIOw4YKVrokUNDIQ8bIOxgQ3i2blHGkzOpqpikySZqtQ8&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 271525,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/travel/b5732559e386ce3e3432d7c7ca0bc914280065.png@220w_125h_1e_1c",
+            "title": "北京动物园",
+            "address": "西城区西直门外大街137号",
+            "lowestprice": 85,
+            "avgprice": 26,
+            "latitude": 39.942891,
+            "longitude": 116.335677,
+            "showType": "travel",
+            "avgscore": 4,
+            "comments": 9943,
+            "historyCouponCount": 255048,
+            "backCateName": "动物园",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                195,
+                20632,
+                20873,
+                20426,
+                20522
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "北京动物园、北京海洋馆纯玩1日跟团游*亲子爆款85元，太平洋海底世界博览馆、北京动物园纯玩1日跟团游*孩子的天地，亲子游125元，北京海洋馆、北京动物园纯玩1日跟团游*游园赏物，看海洋表演86元，北京动物园、北京海洋馆纯玩1日跟团游*亲子游遇见水+陆动物188元，北京动物园纯玩1日跟团游*亲子畅游108元，动物园大师讲解中文鞠萍完整微信版（不含门票）1元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 44667549,
+                    "title": "动物园大师讲解中文鞠萍完整微信版（不含门票）",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 1,
+                    "value": 20,
+                    "sales": 926,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 34100378,
+                    "title": "北京动物园纯玩1日跟团游*亲子畅游",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 108,
+                    "value": 1788,
+                    "sales": 101,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 41658755,
+                    "title": "北京海洋馆、北京动物园纯玩1日跟团游*游园赏物，看海洋表演",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 86,
+                    "value": 135,
+                    "sales": 148,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 44530960,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游*亲子爆款！与动物嬉戏",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 85,
+                    "value": 88,
+                    "sales": 271,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 44513189,
+                    "title": "太平洋海底世界博览馆、北京动物园纯玩1日跟团游*孩子的天地，亲子游",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 125,
+                    "value": 145,
+                    "sales": 178,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 43702964,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游*亲子游遇见水+陆动物",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 188,
+                    "value": 218,
+                    "sales": 119,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 39935948,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 198,
+                    "value": 298,
+                    "sales": 80,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 47441825,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 215,
+                    "value": 238,
+                    "sales": 86,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 45426181,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游*海洋环游，动物乐园",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 165,
+                    "value": 178,
+                    "sales": 71,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 44792158,
+                    "title": "故宫博物院（故宫）、颐和园、八达岭长城等纯玩3日跟团游*0购物0自费含保险",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 468,
+                    "value": 488,
+                    "sales": 62,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园\u003C500m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 271734,
+            "template": "pcfood",
+            "imageUrl": "https://p1.meituan.net/hoteltdc/9fb44c31ab1932ff5976caa51ef253092183083.png@220w_125h_1e_1c",
+            "title": "北京海洋馆",
+            "address": "西城区北京海洋馆北门",
+            "lowestprice": 85,
+            "avgprice": 192,
+            "latitude": 39.947055,
+            "longitude": 116.340369,
+            "showType": "travel",
+            "avgscore": 4,
+            "comments": 15660,
+            "historyCouponCount": 253637,
+            "backCateName": "海洋馆",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                195,
+                20007,
+                20632,
+                20873,
+                20426,
+                20522
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "北京海洋馆旺季票+北京动物园成人票175元，北京动物园+北京海洋馆学生\u002F儿童门票85元，北京海洋馆旺季票+北京动物园成人票170元，北京动物园、北京海洋馆纯玩1日跟团游*亲子爆款85元，北京海洋馆、北京动物园纯玩1日跟团游*游园赏物，看海洋表演86元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 44292568,
+                    "title": "北京海洋馆旺季票+北京动物园成人票",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 175,
+                    "value": 175,
+                    "sales": 105392,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 43160509,
+                    "title": "北京动物园+北京海洋馆学生\u002F儿童门票",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 85,
+                    "value": 85,
+                    "sales": 85267,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 44292537,
+                    "title": "北京海洋馆旺季票+北京动物园成人票",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 170,
+                    "value": 170,
+                    "sales": 55855,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 41658755,
+                    "title": "北京海洋馆、北京动物园纯玩1日跟团游*游园赏物，看海洋表演",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 86,
+                    "value": 135,
+                    "sales": 148,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 43702964,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游*亲子游遇见水+陆动物",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 188,
+                    "value": 218,
+                    "sales": 119,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 39935948,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 198,
+                    "value": 298,
+                    "sales": 80,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 44530960,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游*亲子爆款！与动物嬉戏",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 85,
+                    "value": 88,
+                    "sales": 271,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 45426181,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游*海洋环游，动物乐园",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 165,
+                    "value": 178,
+                    "sales": 71,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 47441825,
+                    "title": "北京动物园、北京海洋馆纯玩1日跟团游",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 215,
+                    "value": 238,
+                    "sales": 86,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 38257581,
+                    "title": "格林豪泰快捷酒店（北京万丰路七里庄地铁站店）+北京海洋馆+北京动物园",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 616,
+                    "value": 688,
+                    "sales": 34,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园637m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 356180,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp0.meituan.net\u002Fwedding\u002Fe93c46429715c5331b7e96e0738cfb50687734.jpg",
+            "title": "瑞思英语（西直门校区）",
+            "address": "西城区西直门北大街滨河路9号 法意科技1层（积水潭桥南侧）",
+            "lowestprice": 1,
+            "avgprice": 20657,
+            "latitude": 39.944371,
+            "longitude": 116.355041,
+            "showType": "children",
+            "avgscore": 4.5,
+            "comments": 0,
+            "historyCouponCount": 4,
+            "backCateName": "学科英语",
+            "areaname": "新街口",
+            "tag": [],
+            "cate": [
+                3,
+                20630,
+                20007,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "5元\u002F券，3-10岁儿童英语试听课2节"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 49444942,
+                    "title": "3-10岁儿童英语试听课2节",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 5.9,
+                    "value": 1000,
+                    "sales": 115,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.6km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=jqjENa5-VbsYmQJdI71vpoDqjf04sa130n0ZMUD2Qu25JFvVBA-n-pT12KXn_8wZkOSphYQLKIu9Xf85XwPmA97w2kboT_3JOSueC-7KYi3NRULZKDw9baJy375d8twUxWxyyGzRjetccPOMJ2QfnQf3Ez9roP4D7-Cu7a0HZuWF7IL1ozLTvT_Ey0SarhpTMoNigFgebjon0vZyP_ralQyuWQqzX6A70yvyYPPQVPlzgbUJzmVfa7MQ24jG-Prt3UmM1xK_XpjYI4jZjQ-B44eHuGtJy_4RUG6SnA29PLmWCDplpFNrq7tpWYjzLa3DTO_maCR3-Sj0PKuwleQ_&sver=2&ad_v=1&ad_ci=jqjENa5siQdIsRzRQL9vvsEzp-SzWUh4MWI0PBIy8aNSaCGGaBOzt7EmySkCthRCK0ZBzL25k-Oxiqo0OUVMffHccKsJcqLwAzCVQ5YCNA&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=jqjENa5-VbsYmQJdI71vpoDqjf04sa130n0ZMUD2Qu25JFvVBA-n-pT12KXn_8wZkOSphYQLKIu9Xf85XwPmA97w2kboT_3JOSueC-7KYi3NRULZKDw9baJy375d8twUxWxyyGzRjetccPOMJ2QfnQf3Ez9roP4D7-Cu7a0HZuWF7IL1ozLTvT_Ey0SarhpTMoNigFgebjon0vZyP_ralQyuWQqzX6A70yvyYPPQVPlzgbUJzmVfa7MQ24jG-Prt3UmM1xK_XpjYI4jZjQ-B44eHuGtJy_4RUG6SnA29PLmWCDplpFNrq7tpWYjzLa3DTO_maCR3-Sj0PKuwleQ_&sver=2&ad_v=1&ad_ci=jqjENa5siQdIsRzRQL9vvsEzp-SzWUh4MWI0PBIy8aNSaCGGaBOzt7EmySkCthRCK0ZBzL25k-Oxiqo0OUVMffHccKsJcqLwAzCVQ5YCNA&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 92363,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/travel/207384e80f132a0ce4d57bde75576ad8571060.png@220w_125h_1e_1c",
+            "title": "北京野生动物园",
+            "address": "大兴区榆垡镇万亩森林（106国道北京森林假日高尔夫俱乐部北面）",
+            "lowestprice": 72,
+            "avgprice": 219,
+            "latitude": 39.495958,
+            "longitude": 116.334678,
+            "showType": "travel",
+            "avgscore": 5,
+            "comments": 57766,
+            "historyCouponCount": 493109,
+            "backCateName": "动物园",
+            "areaname": "大兴区",
+            "tag": [],
+            "cate": [
+                195,
+                20632,
+                20873,
+                20426,
+                20522
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "北京野生动物园平日门票(成人票)122元，北京野生动物园平日门票(亲子票2大1小)308元，北京野生动物园平日成人票128元，北京野生动物园、八达岭野生动物世界纯玩1日跟团游*含猛兽区游览大巴车134元，北京野生动物园、八达岭野生动物世界纯玩1日跟团游*人与动物零距离接触135元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 55056469,
+                    "title": "北京野生动物园平日成人票",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 128,
+                    "value": 130,
+                    "sales": 9540,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 50345222,
+                    "title": "来康温泉酒店+(固安来康郡来康温泉可选), 可选自助正餐一顿\u002F温泉鱼疗 光波房\u002F康体娱乐",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 399,
+                    "value": 988,
+                    "sales": 438,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 49941184,
+                    "title": "百悦精品酒店+双人早餐+酒店免费停车",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 267,
+                    "value": 588,
+                    "sales": 239,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 46484132,
+                    "title": "Funny（芬妮）概念酒店+自助早餐",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 558,
+                    "value": 1194,
+                    "sales": 88,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 37791012,
+                    "title": "北京野生动物园平日门票(成人票)",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 122,
+                    "value": 130,
+                    "sales": 292873,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 40735244,
+                    "title": "北京野生动物园平日门票(亲子票2大1小)",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 308,
+                    "value": 340,
+                    "sales": 15333,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 38925833,
+                    "title": "北京野生动物园、八达岭野生动物世界纯玩1日跟团游*含猛兽区游览大巴车",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 134,
+                    "value": 158,
+                    "sales": 718,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 53026940,
+                    "title": "廊坊固安福朋喜来登酒店+北京野生动物园+双人自助早餐+畅玩儿童乐园＋游泳馆+健身中心",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 1030,
+                    "value": 1888,
+                    "sales": 90,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 44541404,
+                    "title": "北京野生动物园、八达岭野生动物世界纯玩1日跟团游*人与动物零距离接触",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 135,
+                    "value": 168,
+                    "sales": 554,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 49430258,
+                    "title": "廊坊固安福朋喜来登酒店+北京野生动物园+2大1小自助早餐+畅玩儿童乐园+游泳馆+健身中心",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 1032,
+                    "value": 1399,
+                    "sales": 110,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园49.7km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 73469357,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/travel/a3055c02fc4917d8d7d2d0f553804b9157543.jpg@220w_125h_1e_1c",
+            "title": "北京动物园熊猫馆",
+            "address": "西城区西直门外大街137号北京动物园内",
+            "lowestprice": 138,
+            "avgprice": 10,
+            "latitude": 39.939539,
+            "longitude": 116.340092,
+            "showType": "travel",
+            "avgscore": 5,
+            "comments": 0,
+            "historyCouponCount": 10,
+            "backCateName": "动物园",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                195,
+                20632,
+                20873,
+                20426,
+                20522
+            ],
+            "recentScreen": null,
+            "abstracts": [],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": null,
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园\u003C500m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 6813420,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp0.meituan.net\u002Fwedding\u002F00d7104a1c2e3321f5e30309d9f1fe02313403.jpg",
+            "title": "EF英孚教育青少儿英语（西直门枫蓝中心）",
+            "address": "海淀区西直门北大街32号枫蓝国际购物中心3层",
+            "lowestprice": 1,
+            "avgprice": 18435,
+            "latitude": 39.95375,
+            "longitude": 116.356129,
+            "showType": "children",
+            "avgscore": 4.5,
+            "comments": 1,
+            "historyCouponCount": 137,
+            "backCateName": "兴趣英语",
+            "areaname": "北下关",
+            "tag": [],
+            "cate": [
+                3,
+                20630,
+                20007,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp0.meituan.net\u002Fgroupop\u002F348758503e87285267788a5d5b64d777779.png",
+                    "message": "100代1000元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 51472264,
+                    "title": "代金券",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 100,
+                    "value": 1000,
+                    "sales": 22,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园2.1km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=vjIIqmRBK5_xT-zWtiT6D7UIZNup9Lg0wDe6uYvg2I6I2u0Luowiqq4fhsPv3pvWqV3jKDMyHB8pOw0XyaBnn_lgC0_yUKGLa0supiEC495m1aW3EnRFGZVmJs2e5v_2lf_qWvm0s1zctzLTpq552Cb7EHnUNfr9TszZoTuzwSTObuCwL0NaBvrK3g1nziNkjVsT-CSsgekfudgufk1Mkeyf_j_b9wEy7GazsisH0MVmK88GvWOtrcT9Qe4zGfQc95jiqcRNY4pZ1lOR3JXGJ5JKQoWcVlyZW2pna4W_ExZUt5EUrZ0uo87nxFQtNkIlseAqQi5cVjmP_TkKTMxAgIA&sver=2&ad_v=1&ad_ci=vjIIqmRT9yOhZ_Ja1SbqEzPQTsKqW5MC6uPw2Ny3GcbLgDG4UZjZiMNstX521ykKQoztnflvfhVx3LsIsdOWSspKw5N49-mFtie7ssC_WQ&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=vjIIqmRBK5_xT-zWtiT6D7UIZNup9Lg0wDe6uYvg2I6I2u0Luowiqq4fhsPv3pvWqV3jKDMyHB8pOw0XyaBnn_lgC0_yUKGLa0supiEC495m1aW3EnRFGZVmJs2e5v_2lf_qWvm0s1zctzLTpq552Cb7EHnUNfr9TszZoTuzwSTObuCwL0NaBvrK3g1nziNkjVsT-CSsgekfudgufk1Mkeyf_j_b9wEy7GazsisH0MVmK88GvWOtrcT9Qe4zGfQc95jiqcRNY4pZ1lOR3JXGJ5JKQoWcVlyZW2pna4W_ExZUt5EUrZ0uo87nxFQtNkIlseAqQi5cVjmP_TkKTMxAgIA&sver=2&ad_v=1&ad_ci=vjIIqmRT9yOhZ_Ja1SbqEzPQTsKqW5MC6uPw2Ny3GcbLgDG4UZjZiMNstX521ykKQoztnflvfhVx3LsIsdOWSspKw5N49-mFtie7ssC_WQ&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 89639628,
+            "template": "pcfood",
+            "imageUrl": "http:\u002F\u002Fqcloud.dpfile.com\u002Fpc\u002FObiGtQHcqZq-YXS9yC8PD7as60Q7JEILeLs2EK9eCK15Hg-ptVjoYNG1nJQ7ThvoZSUjBikR5Ecy-DoGYkMhlg.jpg",
+            "title": "北京动物园西北门-售票处",
+            "address": "西城区西直门外大街137号北京动物园内",
+            "lowestprice": 0,
+            "avgprice": 0,
+            "latitude": 39.94323,
+            "longitude": 116.33087,
+            "showType": "easylife",
+            "avgscore": 4,
+            "comments": 0,
+            "historyCouponCount": 0,
+            "backCateName": "其他交通票务",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                3,
+                20630,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": null,
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园500m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 5166,
+            "template": "pcfood",
+            "imageUrl": "https://p1.meituan.net/tdctraveldark/cafc3c381a4ff4470038241dbf3f73ce501311.jpg@220w_125h_1e_1c",
+            "title": "北京天文馆",
+            "address": "西城区西直门外大街138号（地铁4号线动物园站）",
+            "lowestprice": 78,
+            "avgprice": 69,
+            "latitude": 39.937417,
+            "longitude": 116.336876,
+            "showType": "travel",
+            "avgscore": 4.4,
+            "comments": 1893,
+            "historyCouponCount": 111,
+            "backCateName": "科技馆",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                195,
+                20632,
+                20873,
+                20426,
+                20522
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "中央电视塔票+北京天文馆票（含AB馆展厅票+天象厅+4D剧场）（1大1小亲子票）238元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 55116294,
+                    "title": "中央电视塔票+北京天文馆票（含AB馆展厅票+天象厅+4D剧场）（1大1小亲子票）",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 238,
+                    "value": 285,
+                    "sales": 89,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园525m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 114810228,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fvfile.meituan.net\u002F180.180\u002Fjoymerchant\u002F5953167907361476117-24672807-1536974703342.jpg",
+            "title": "旭日生活管家（蓟门桥店）",
+            "address": "海淀区西土城路31号冶建小区5号楼3楼（中国政法大学）",
+            "lowestprice": 30,
+            "avgprice": 267,
+            "latitude": 39.963216,
+            "longitude": 116.352355,
+            "showType": "easylife",
+            "avgscore": 5,
+            "comments": 31,
+            "historyCouponCount": 1237,
+            "backCateName": "家电维修",
+            "areaname": "大钟寺",
+            "tag": [],
+            "cate": [
+                3,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "40元\u002F券，空调加氟\u002F一匹定频空调一个压力"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 43479703,
+                    "title": "空调加氟\u002F一匹定频空调一个压力",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 40,
+                    "value": 60,
+                    "sales": 1629,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园2.7km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=BwN5slwsqhsqD9LmI_5FeR9kwRXxXGDH0xUqcK2WKXoUJPPU4lXLnXRSZ5MWItWo0Fcxw1Rh0k4EoqCu09aATLnMTbjW5J4FFlHacYowvX_DdrJsj1MwTpJrkpOYcD_-bEy7xh2QqNlN56pDmXDGoo9vBmEKSHfSZRdwKwzpnj4wUMJbxY1NWWn5XyUskAg8_QNsaGQfWK1TS8NllzEvJHPl5CowNSN-EZaqMHIaYgFZJyVrzy687ZNuIZsJBdOt-ZTcmOzPi_WxZUscVKrH3Je470TQGf0qUGSJPpP0ZFiRbepF_CIqkVjkbcGa3FTfQrI9oGV_yHX-4QMD0RnT161ZEg&sver=2&ad_v=1&ad_ci=BwN5slw-dqd6J4zkRL01ZRlKiYYJtwXT12GBSmQf77woXEoieK4uMTrjCKENukSW5prMmdCJEwUarUshlvrn7MSPJWT6lU0_PXSHm1PgNw&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=BwN5slwsqhsqD9LmI_5FeR9kwRXxXGDH0xUqcK2WKXoUJPPU4lXLnXRSZ5MWItWo0Fcxw1Rh0k4EoqCu09aATLnMTbjW5J4FFlHacYowvX_DdrJsj1MwTpJrkpOYcD_-bEy7xh2QqNlN56pDmXDGoo9vBmEKSHfSZRdwKwzpnj4wUMJbxY1NWWn5XyUskAg8_QNsaGQfWK1TS8NllzEvJHPl5CowNSN-EZaqMHIaYgFZJyVrzy687ZNuIZsJBdOt-ZTcmOzPi_WxZUscVKrH3Je470TQGf0qUGSJPpP0ZFiRbepF_CIqkVjkbcGa3FTfQrI9oGV_yHX-4QMD0RnT161ZEg&sver=2&ad_v=1&ad_ci=BwN5slw-dqd6J4zkRL01ZRlKiYYJtwXT12GBSmQf77woXEoieK4uMTrjCKENukSW5prMmdCJEwUarUshlvrn7MSPJWT6lU0_PXSHm1PgNw&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 271527,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/hoteltdc/5a5accb41934cb36e045723b9c2b6278804765.jpg@220w_125h_1e_1c",
+            "title": "北京植物园",
+            "address": "海淀区香山卧佛寺路",
+            "lowestprice": 98,
+            "avgprice": 21,
+            "latitude": 40.003125,
+            "longitude": 116.208281,
+            "showType": "travel",
+            "avgscore": 4,
+            "comments": 344,
+            "historyCouponCount": 76,
+            "backCateName": "植物园",
+            "areaname": "香山\u002F植物园",
+            "tag": [],
+            "cate": [
+                195,
+                20632,
+                20873,
+                20426,
+                20522
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "北京植物园纯玩1日跟团游*赏花美景品京味文化98元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 47348433,
+                    "title": "北京植物园纯玩1日跟团游*赏花美景品京味文化",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 98,
+                    "value": 198,
+                    "sales": 76,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园12.9km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 370568,
+            "template": "pcfood",
+            "imageUrl": "https://p1.meituan.net/tdchotel/fdc265644cc4745c61d1433fe19467bd169530.jpg@220w_125h_1e_1c",
+            "title": "维也纳国际酒店（北京首体店）",
+            "address": "海淀区中关村南大街52号（近地铁4号线和9号线国家图书馆站B出口）",
+            "lowestprice": 701,
+            "avgprice": 368,
+            "latitude": 39.943502,
+            "longitude": 116.326053,
+            "showType": "hotel",
+            "avgscore": 5,
+            "comments": 1939,
+            "historyCouponCount": 24601,
+            "backCateName": "高档型",
+            "areaname": "紫竹桥",
+            "tag": [],
+            "cate": [
+                20,
+                20426,
+                20606
+            ],
+            "recentScreen": null,
+            "abstracts": [],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": null,
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园908m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 71569109,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp0.meituan.net\u002F180.180\u002Fwedding\u002F055aaba069b6bedbbdbd4faf25b5e2f966660.jpg",
+            "title": "韩啸医疗美容·眼综合整形店",
+            "address": "西城区三里河路1号院42号楼1层2层（西苑饭店北翼）",
+            "lowestprice": 199,
+            "avgprice": 441,
+            "latitude": 39.93787,
+            "longitude": 116.33253,
+            "showType": "beauty",
+            "avgscore": 5,
+            "comments": 56,
+            "historyCouponCount": 188,
+            "backCateName": "医学美容",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                22,
+                20630,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": null,
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园585m",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=rzhl-_SLIbE625f1rkMF6efWe5gb2g3CHpeGDFsxLOTReP0IcGhEhN1HyBEVLepjpFzuDoxxncKDGYoy-MrPNuIPkYSLPU_PO-_ndlBQDrN9iT78mTjRMQwTI5yzlqyeoAIhQdb3MmNVMbsBqK2kNZ8X1-ogXFB0ddWWp4VjkmKh4ztSi6F4bjqRqx4FQez8HCxv7SNOTMQdm7m_eM_nxVxBR2D_82ZbBAiyNnPi9Iu_MnbJhCpjYHiAo-3OnFz31E2yqC_KOnL9-GD74PbQMqHIEyLjoEV3s5Ck8xt1zFWPM9kzBikYYtJHDbPtIskuHf69H1E0WFzPemrTDu2Brpn6ig&sver=2&ad_v=1&ad_ci=rzhl-_SZ_Q1q84n1zUAF9aK_PLbon6Ns6YHEQdOHBsX6MUoPpJzM7tWi5pc56jhaKE_yZ-gTlPxy8ECuLMfdW1-vEBcWtY-wiFwRP_2nnJY&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=rzhl-_SLIbE625f1rkMF6efWe5gb2g3CHpeGDFsxLOTReP0IcGhEhN1HyBEVLepjpFzuDoxxncKDGYoy-MrPNuIPkYSLPU_PO-_ndlBQDrN9iT78mTjRMQwTI5yzlqyeoAIhQdb3MmNVMbsBqK2kNZ8X1-ogXFB0ddWWp4VjkmKh4ztSi6F4bjqRqx4FQez8HCxv7SNOTMQdm7m_eM_nxVxBR2D_82ZbBAiyNnPi9Iu_MnbJhCpjYHiAo-3OnFz31E2yqC_KOnL9-GD74PbQMqHIEyLjoEV3s5Ck8xt1zFWPM9kzBikYYtJHDbPtIskuHf69H1E0WFzPemrTDu2Brpn6ig&sver=2&ad_v=1&ad_ci=rzhl-_SZ_Q1q84n1zUAF9aK_PLbon6Ns6YHEQdOHBsX6MUoPpJzM7tWi5pc56jhaKE_yZ-gTlPxy8ECuLMfdW1-vEBcWtY-wiFwRP_2nnJY&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 159094273,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/tdchotel/f76f026d66e16eaed0f6220325615e0347355.jpg@220w_125h_1e_1c",
+            "title": "99优选酒店（北京中关村交通大学店）",
+            "address": "海淀区大慧寺路25号",
+            "lowestprice": 189,
+            "avgprice": 0,
+            "latitude": 39.952384,
+            "longitude": 116.335075,
+            "showType": "hotel",
+            "avgscore": 4.1,
+            "comments": 1228,
+            "historyCouponCount": 26944,
+            "backCateName": "经济酒店",
+            "areaname": "北下关",
+            "tag": [],
+            "cate": [
+                20,
+                20426,
+                20606
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "99优选酒店（北京中关村交通大学店）+北京动物园260元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 51985270,
+                    "title": "99优选酒店（北京中关村交通大学店）+北京动物园",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 260,
+                    "value": 20,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.1km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 165565334,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/joymerchant/9181d57f2ad2d02091fd0cd6ac147d46--1666510081.jpg@220w_125h_1e_1c",
+            "title": "威聚星汇私人影院",
+            "address": "海淀区四道口2号京果商厦A座318号（东方百合观光电梯直上）",
+            "lowestprice": 68,
+            "avgprice": 101,
+            "latitude": 39.960931,
+            "longitude": 116.345333,
+            "showType": "entertainment",
+            "avgscore": 5,
+            "comments": 249,
+            "historyCouponCount": 3757,
+            "backCateName": "私人影院",
+            "areaname": "大钟寺",
+            "tag": [],
+            "cate": [
+                2,
+                3,
+                20611,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "72元\u002F券，周末情侣影厅双人1小时观影劵，188元\u002F券，周末情侣3小时观影券，198元\u002F券，情侣影厅通宵观影券，158元\u002F券，平日情侣3小时观影，112元\u002F券，-平日小影厅2小时观影"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [
+                "http:\u002F\u002Fp0.meituan.net\u002Fcodeman\u002Fa1af36edb271ae6ec74e36cde05d1ac8851.png"
+            ],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 49612458,
+                    "title": "周末情侣影厅双人1小时观影劵",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 72,
+                    "value": 128,
+                    "sales": 653,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 49790527,
+                    "title": "情侣影厅通宵观影券",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 198,
+                    "value": 432,
+                    "sales": 607,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 51655790,
+                    "title": "周末情侣3小时观影券",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 188,
+                    "value": 215,
+                    "sales": 630,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 49994818,
+                    "title": "早场4小时观影券",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 68,
+                    "value": 256,
+                    "sales": 178,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 50077414,
+                    "title": "平日小影厅2小时观影（周一至周四）",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 112,
+                    "value": 256,
+                    "sales": 188,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 53321130,
+                    "title": "平日情侣3小时观影",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 158,
+                    "value": 198,
+                    "sales": 283,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 600831137,
+                    "title": "平日4小时观影券(周一至周四使用）",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 188,
+                    "value": 228,
+                    "sales": 3,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园2.2km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 187213305,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp0.meituan.net\u002Fwedding\u002F5bf6e4f89d17ade377c86c2dbdc4e288362629.jpg",
+            "title": "优悦婚礼策划（西直门店）",
+            "address": "西城区西直门外大街18号金贸大厦A座810室",
+            "lowestprice": 1,
+            "avgprice": 21317,
+            "latitude": 39.93876,
+            "longitude": 116.34863,
+            "showType": "married",
+            "avgscore": 5,
+            "comments": 0,
+            "historyCouponCount": 0,
+            "backCateName": "婚礼策划",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                20178,
+                3,
+                20630
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp0.meituan.net\u002Fgroupop\u002F348758503e87285267788a5d5b64d777779.png",
+                    "message": "1代1000元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 55307113,
+                    "title": "代金券",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 1,
+                    "value": 1000,
+                    "sales": 13,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.1km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=Ulr9DWEiAGnLmX87dNgOum-kmTzXnA5Kb0mCh1B_luG7MPiHPAk1DBF8bRYkCLymRKC_CSJ0gWO5tCSn4hdMDgsFUUadG-CswW009-hXJGy2aFRQ929kleGBCzSuyMhNQUzPYJvDETJheEJxlwuXVkRPViIyqm_A3xvM4lO174r3pojbhSUueupb0Jvdkn4gdtJE9VslmWKdQ8UOAdJ-G1IPhap-TS4k38S_wS3-EwkZW3fc1Ln-hDV4PsziZ-_J-5DnxvZRGsnwRXPKKKnobAepFY7QKJg26JX2QpJDjLW4mg3GLebhORygGeKzRPJHvE7J5VO83Uj967N5rcdA3Dnu&sver=2&ad_v=1&ad_ci=Ulr9DWEw3NWbf4VJLi4dmiyJWWrSGkRRoOiMZXzig-8-YEAfdLVLhsUZogO_F_a1HO00P1-GcHm6Y1tanATgrgW7-fiKW72D&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=Ulr9DWEiAGnLmX87dNgOum-kmTzXnA5Kb0mCh1B_luG7MPiHPAk1DBF8bRYkCLymRKC_CSJ0gWO5tCSn4hdMDgsFUUadG-CswW009-hXJGy2aFRQ929kleGBCzSuyMhNQUzPYJvDETJheEJxlwuXVkRPViIyqm_A3xvM4lO174r3pojbhSUueupb0Jvdkn4gdtJE9VslmWKdQ8UOAdJ-G1IPhap-TS4k38S_wS3-EwkZW3fc1Ln-hDV4PsziZ-_J-5DnxvZRGsnwRXPKKKnobAepFY7QKJg26JX2QpJDjLW4mg3GLebhORygGeKzRPJHvE7J5VO83Uj967N5rcdA3Dnu&sver=2&ad_v=1&ad_ci=Ulr9DWEw3NWbf4VJLi4dmiyJWWrSGkRRoOiMZXzig-8-YEAfdLVLhsUZogO_F_a1HO00P1-GcHm6Y1tanATgrgW7-fiKW72D&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 264445,
+            "template": "pcfood",
+            "imageUrl": "https://p1.meituan.net/msmerchant/a4b345c244c24033b58ffba54cffe3d0369403.jpg@220w_125h_1e_1c",
+            "title": "比格比萨（西外店）",
+            "address": "西城区西直门外大街137号",
+            "lowestprice": 69,
+            "avgprice": 57,
+            "latitude": 39.938898,
+            "longitude": 116.341707,
+            "showType": "food",
+            "avgscore": 3.7,
+            "comments": 5133,
+            "historyCouponCount": 64224,
+            "backCateName": "披萨",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                1,
+                20632,
+                20426,
+                20557
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "单人午\u002F晚餐75元，单人午\u002F晚餐69元"
+                },
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp0.meituan.net\u002Fgroupop\u002F5166f1958bb4a8c9a3cd76fda7939ed0728.png",
+                    "message": "满30减8;满50减20;满110减30;满160减40"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 28396152,
+                    "title": "周一至周五自助餐",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 75,
+                    "value": 79,
+                    "sales": 652437,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 53552818,
+                    "title": "周二男士自助餐",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 69,
+                    "value": 79,
+                    "sales": 7925,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 53553090,
+                    "title": "周三女士自助餐",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 69,
+                    "value": 79,
+                    "sales": 12917,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园568m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 179979197,
+            "template": "pcfood",
+            "imageUrl": "https://p1.meituan.net/tdchotel/4b91f63926d8823a8cc61d21932c8ae64906175.jpg@220w_125h_1e_1c",
+            "title": "布丁精选酒店（北京中关村店）",
+            "address": "海淀区大柳树路23号（近4号线大兴线魏公村站B口）",
+            "lowestprice": 446,
+            "avgprice": 0,
+            "latitude": 39.95254,
+            "longitude": 116.335625,
+            "showType": "hotel",
+            "avgscore": 4.8,
+            "comments": 523,
+            "historyCouponCount": 17553,
+            "backCateName": "经济酒店",
+            "areaname": "北下关",
+            "tag": [],
+            "cate": [
+                20,
+                20426,
+                20606
+            ],
+            "recentScreen": null,
+            "abstracts": [],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": null,
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.2km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 103080994,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp0.meituan.net\u002F180.180\u002Fwedding\u002Fc314f55d659f3f6e47dfd38909701d50222018.jpg",
+            "title": "睿朗德西装礼服西服定制（西苑店）",
+            "address": "海淀区三里河路1号西苑饭店1层（香格里拉 首都体育馆 腾达大厦）",
+            "lowestprice": 980,
+            "avgprice": 4979,
+            "latitude": 39.937462,
+            "longitude": 116.331757,
+            "showType": "married",
+            "avgscore": 5,
+            "comments": 0,
+            "historyCouponCount": 12,
+            "backCateName": "西服定制",
+            "areaname": "航天桥",
+            "tag": [],
+            "cate": [
+                20178,
+                20599
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "2980元\u002F券，意大利现货面料西装六件套最快7日成品，3990元\u002F券，意大利VBC维达莱西装马甲七件套惊爆价，1990元\u002F券，经典西装五件套结婚商务休闲套装，980元\u002F券，单西裤+衬衫 清爽初夏配置"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 38597357,
+                    "title": "意大利现货面料西装六件套最快7日成品",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 2980,
+                    "value": 6360,
+                    "sales": 36,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 40091414,
+                    "title": "意大利VBC维达莱西装马甲七件套惊爆价",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 3990,
+                    "value": 6896,
+                    "sales": 33,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 40084403,
+                    "title": "经典西装五件套结婚商务休闲套装",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 1990,
+                    "value": 3570,
+                    "sales": 9,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 48063273,
+                    "title": "单西裤+衬衫 清爽初夏配置",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 980,
+                    "value": 3090,
+                    "sales": 2,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园661m",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=Lq3mQVifomrXfQqfxATwzF7m18ygWBzOeQ97d34k1EfalAj4KzHO9E0UdFyLLlFQ6m47E43REAWAHx3TgFsY_VnVhgztikBVEHEjEf01p482-qji7jCP33nqoMsIIIiOWYdSzXfjSUeFokCJ-fKDXcuntLDUSv2ZQ_pSvV1AM0P7xYjdf3GOYKt5Fq4SDpCTqkZ3S8E_9OAK-4eplmCkBqloMeCB34ewK_IWLXrlEwOTvxjUEtvi-DMNtwU6lrQ_9dXePx54B7Gx8FvLxWuFKklPAMBFGWc8c6MhNt58LPcHPAG6zAljQu7GJ4TWI_uM4eLdfudmN57ShY2_QlaiL77DQg&sver=2&ad_v=1&ad_ci=Lq3mQViNftaHVRSfpwfw0BuPkOLzsGAhn5O7sOSGfPr-pv6WjsFr2H_HsoshOHZwGCb3wABswgiTJPJm1C0egYTYWz2GBlFBIU7supYEpKM&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=Lq3mQVifomrXfQqfxATwzF7m18ygWBzOeQ97d34k1EfalAj4KzHO9E0UdFyLLlFQ6m47E43REAWAHx3TgFsY_VnVhgztikBVEHEjEf01p482-qji7jCP33nqoMsIIIiOWYdSzXfjSUeFokCJ-fKDXcuntLDUSv2ZQ_pSvV1AM0P7xYjdf3GOYKt5Fq4SDpCTqkZ3S8E_9OAK-4eplmCkBqloMeCB34ewK_IWLXrlEwOTvxjUEtvi-DMNtwU6lrQ_9dXePx54B7Gx8FvLxWuFKklPAMBFGWc8c6MhNt58LPcHPAG6zAljQu7GJ4TWI_uM4eLdfudmN57ShY2_QlaiL77DQg&sver=2&ad_v=1&ad_ci=Lq3mQViNftaHVRSfpwfw0BuPkOLzsGAhn5O7sOSGfPr-pv6WjsFr2H_HsoshOHZwGCb3wABswgiTJPJm1C0egYTYWz2GBlFBIU7supYEpKM&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 2444510,
+            "template": "pcfood",
+            "imageUrl": "https://p1.meituan.net/tdchotel/7b920743551fa060b2fcda7eb4c48b9277342.jpg@220w_125h_1e_1c",
+            "title": "7天连锁酒店（北京动物园店）",
+            "address": "海淀区高粱桥斜街19号2号楼（北京交通大学南门对面，距离北京大学口腔医院1.6公里）",
+            "lowestprice": 284,
+            "avgprice": 207,
+            "latitude": 39.946542,
+            "longitude": 116.342086,
+            "showType": "hotel",
+            "avgscore": 4.1,
+            "comments": 938,
+            "historyCouponCount": 21897,
+            "backCateName": "经济酒店",
+            "areaname": "北下关",
+            "tag": [],
+            "cate": [
+                20,
+                20426,
+                20606
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "7天连锁酒店（北京动物园店）+北京海洋馆454元，7天连锁酒店（北京动物园店）+太平洋海底世界博览馆389元，7天连锁酒店（北京动物园店）+北京动物园310元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 53517280,
+                    "title": "7天连锁酒店（北京动物园店）+太平洋海底世界博览馆",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 389,
+                    "value": 120,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 50366797,
+                    "title": "7天连锁酒店（北京动物园店）+北京海洋馆",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 454,
+                    "value": 170,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 53537735,
+                    "title": "7天连锁酒店（北京动物园店）+北京动物园",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 310,
+                    "value": 20,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园681m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 64394449,
+            "template": "pcfood",
+            "imageUrl": "https://p1.meituan.net/tdchotel/851d7bb95a0fb0e667ecd2daabad10d66726945.jpg@220w_125h_1e_1c",
+            "title": "青春主题酒店",
+            "address": "海淀区交大东路25号（北京交通大学南门东300米）",
+            "lowestprice": 289,
+            "avgprice": 0,
+            "latitude": 39.950195,
+            "longitude": 116.347883,
+            "showType": "hotel",
+            "avgscore": 4.3,
+            "comments": 1013,
+            "historyCouponCount": 24077,
+            "backCateName": "经济酒店",
+            "areaname": "北下关",
+            "tag": [],
+            "cate": [
+                20,
+                20426,
+                20606
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "青春主题酒店+北京动物园409元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 51586963,
+                    "title": "青春主题酒店+北京动物园",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 409,
+                    "value": 20,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.3km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 169425000,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp0.meituan.net\u002F180.180\u002Fwedding\u002F961ca1c57469f3c64ff39fe1bdd75d21167282.jpg",
+            "title": "北京世纪锦绣窗饰有限公司",
+            "address": "海淀区西土城路31号院3号楼3单元501室",
+            "lowestprice": 1,
+            "avgprice": 2260,
+            "latitude": 39.96281,
+            "longitude": 116.352002,
+            "showType": "domestic",
+            "avgscore": 4.5,
+            "comments": 2,
+            "historyCouponCount": 117,
+            "backCateName": "窗帘",
+            "areaname": "大钟寺",
+            "tag": [],
+            "cate": [
+                20179
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "1元\u002F券，测量服务"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 55894291,
+                    "title": "测量服务",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 1,
+                    "value": 100,
+                    "sales": 2,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园2.7km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=5pyOO_kuAb7DCfu8Yvv6TRGwhQmRRnyzHTMlExefrOuLaAYZO99D5s1Oqnn3Ut6D1XsJgY20kdbuucMpa0BjZLpEoQaJIgERbkjgMYo8a69bHC48uyadc_p_mb7DIF46_Wcx38-OBsnU2IWtTJ72_h9agC4jtSQGteSQ4A7blZrgu5WF0T4Vk_HBd50gGpKb4jYtgW3JLW7VCnHOK80FCf7zyycIPQYZDDEZd-JvZrgUT6RUMo_6sFPTQ39Knxj6DOtBdsNdnSKcjj9U-U7tQVTogPkxdYeFD7vBFPlgtJUOfxUFLWya52KEHFI1HDujqmdHjuZBFycETyF9w6UQrJYxAQ&sver=2&ad_v=1&ad_ci=5pyOO_k83QKTIeW2Abn6UZD54tUcEawuCBAeh9biS6i0vfzS6CnwbUCwRx33v9MR1EFJ9fV98ewgTYrBWG6OtXH3-lG7Xm5Th6zwByHQodY&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=5pyOO_kuAb7DCfu8Yvv6TRGwhQmRRnyzHTMlExefrOuLaAYZO99D5s1Oqnn3Ut6D1XsJgY20kdbuucMpa0BjZLpEoQaJIgERbkjgMYo8a69bHC48uyadc_p_mb7DIF46_Wcx38-OBsnU2IWtTJ72_h9agC4jtSQGteSQ4A7blZrgu5WF0T4Vk_HBd50gGpKb4jYtgW3JLW7VCnHOK80FCf7zyycIPQYZDDEZd-JvZrgUT6RUMo_6sFPTQ39Knxj6DOtBdsNdnSKcjj9U-U7tQVTogPkxdYeFD7vBFPlgtJUOfxUFLWya52KEHFI1HDujqmdHjuZBFycETyF9w6UQrJYxAQ&sver=2&ad_v=1&ad_ci=5pyOO_k83QKTIeW2Abn6UZD54tUcEawuCBAeh9biS6i0vfzS6CnwbUCwRx33v9MR1EFJ9fV98ewgTYrBWG6OtXH3-lG7Xm5Th6zwByHQodY&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 179267169,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/merchantpic/a6f9f00066814561743bfb1aa219f6994772315.jpg@220w_125h_1e_1c",
+            "title": "拳锋拳馆搏击俱乐部",
+            "address": "西城区西直门内大街成铭大厦D座b1层（近西直门地铁站C出口）",
+            "lowestprice": 58,
+            "avgprice": 0,
+            "latitude": 39.93942,
+            "longitude": 116.35654,
+            "showType": "fitness",
+            "avgscore": 5,
+            "comments": 7,
+            "historyCouponCount": 169,
+            "backCateName": "拳击",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                20873,
+                20426,
+                20252
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "88元\u002F券，拳击\u002F散打\u002F泰拳单人私教体验课，68元\u002F券，散打\u002F拳击\u002F泰拳团体课，78元\u002F券，体适能评估套餐，88元\u002F券，少儿搏击团体课，128元\u002F券，出国防身术一对一体验课"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 52481532,
+                    "title": "拳击\u002F散打\u002F泰拳单人私教体验课",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 88,
+                    "value": 680,
+                    "sales": 30,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 52486338,
+                    "title": "散打\u002F拳击\u002F泰拳团体课",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 68,
+                    "value": 199,
+                    "sales": 3,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 52482871,
+                    "title": "减脂塑形\u002F体适能\u002F运动单人私教体验课",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 58,
+                    "value": 680,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 52485143,
+                    "title": "少儿搏击团体课",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 88,
+                    "value": 680,
+                    "sales": 1,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 52485968,
+                    "title": "出国防身术一对一体验课",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 128,
+                    "value": 680,
+                    "sales": 1,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 52485428,
+                    "title": "女子防身术一对一体验课",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 128,
+                    "value": 680,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 52532698,
+                    "title": "MMA\u002F自由搏击一对一体验课",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 108,
+                    "value": 680,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 52484280,
+                    "title": "体适能评估套餐",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 78,
+                    "value": 200,
+                    "sales": 2,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 53702771,
+                    "title": "一对一拳击减脂塑形",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 128,
+                    "value": 500,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 52523966,
+                    "title": "少儿搏击一对一体验课",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 108,
+                    "value": 180,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.7km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 5672343,
+            "template": "pcfood",
+            "imageUrl": "https://p1.meituan.net/merchantpic/bf5593b053a067cec87a0db60ce9a8c3141698.jpg@220w_125h_1e_1c",
+            "title": "真功夫（动物园店）",
+            "address": "西城区西直门外大街137号",
+            "lowestprice": 9,
+            "avgprice": 21,
+            "latitude": 39.938786,
+            "longitude": 116.341759,
+            "showType": "food",
+            "avgscore": 3.1,
+            "comments": 2069,
+            "historyCouponCount": 15066,
+            "backCateName": "快餐",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                1,
+                20426,
+                20557
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "卤肉饭汤套1份20元，瘦肉粉1份9元，冬菇鸡蜜桃汁1份18元，冬菇鸡蒸蛋燕麦饭1份22元，肉酱米粉白粥1份9元"
+                },
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp0.meituan.net\u002Fgroupop\u002F5166f1958bb4a8c9a3cd76fda7939ed0728.png",
+                    "message": "满40减10;满70减20"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 57262957,
+                    "title": "卤肉饭汤套1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 20,
+                    "value": 33,
+                    "sales": 5898,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57274645,
+                    "title": "瘦肉粉1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 9,
+                    "value": 12,
+                    "sales": 4689,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57272337,
+                    "title": "冬菇鸡蒸蛋燕麦饭1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 22,
+                    "value": 25.5,
+                    "sales": 3672,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57269831,
+                    "title": "冬菇鸡蜜桃汁1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 18,
+                    "value": 18,
+                    "sales": 4329,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57270682,
+                    "title": "肉酱米粉白粥1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 9,
+                    "value": 13.5,
+                    "sales": 1828,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57272269,
+                    "title": "酸菜瘦肉粉豆浆1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 12,
+                    "value": 19,
+                    "sales": 936,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57274147,
+                    "title": "双拼鸡汤生菜套餐1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 36,
+                    "value": 42.5,
+                    "sales": 1175,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57274363,
+                    "title": "蒸饺瘦肉粉1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 14,
+                    "value": 20,
+                    "sales": 679,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57272853,
+                    "title": "瘦肉粉鸡翅套餐1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 15,
+                    "value": 19,
+                    "sales": 608,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 57275088,
+                    "title": "澳洲和牛生菜套餐1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 27,
+                    "value": 30.5,
+                    "sales": 998,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园579m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 304679,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp1.meituan.net\u002Fdpmerchantalbum\u002F1fe810a23109fa42430c499ce1b0ec82612944.png",
+            "title": "EF英孚教育成人英语培训中心（西直门中心店）",
+            "address": "西城区西直门外大街1号嘉茂购物中心B1",
+            "lowestprice": 0,
+            "avgprice": 28344,
+            "latitude": 39.941755,
+            "longitude": 116.352748,
+            "showType": "education",
+            "avgscore": 3.5,
+            "comments": 1,
+            "historyCouponCount": 5,
+            "backCateName": "英语",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                20285
+            ],
+            "recentScreen": null,
+            "abstracts": [],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": null,
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.4km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=ekari_fwvJex0WG2PpcoQbW6JxwHrYzzAbyxPeeOLczts1Y4DhjpB4UhMA6usP2sFRtXHIs59KXgc0e0swPkBdDiXh5xJ9Q8Cef5jGji2Pc2Nz3ESeAqamp_TQT717l6JFjuQlCXUKd1zFbVqjo2cz7YoqirhhW7IOHTJUlNNpbBVRwGt-qN1Bm_cHrvOhEj7c3VXFjfx2Ax0PY2rX3iyK_VnP9PwPO3Lzf9MoM1h8C95X09W40lr_dyvTyJFGLcBPN5otdTwf5jcAymtKqCCZQlcFcy7ES12de8zUAOz9J1ybyI6SWv6dwO3G5ZrQ3k3fLMy64l4BdFTQCDpckkPwM&sver=2&ad_v=1&ad_ci=ekari_fiYCvh-X_CfZQ4WbfTCCKAk4gZBuhp1oOejsskNreUMuKMnkQ6fezB3yppu3bhyFiBErkbKjadbeKxAI1DAEhp3ZWCsCDHFSpwsA&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=ekari_fwvJex0WG2PpcoQbW6JxwHrYzzAbyxPeeOLczts1Y4DhjpB4UhMA6usP2sFRtXHIs59KXgc0e0swPkBdDiXh5xJ9Q8Cef5jGji2Pc2Nz3ESeAqamp_TQT717l6JFjuQlCXUKd1zFbVqjo2cz7YoqirhhW7IOHTJUlNNpbBVRwGt-qN1Bm_cHrvOhEj7c3VXFjfx2Ax0PY2rX3iyK_VnP9PwPO3Lzf9MoM1h8C95X09W40lr_dyvTyJFGLcBPN5otdTwf5jcAymtKqCCZQlcFcy7ES12de8zUAOz9J1ybyI6SWv6dwO3G5ZrQ3k3fLMy64l4BdFTQCDpckkPwM&sver=2&ad_v=1&ad_ci=ekari_fiYCvh-X_CfZQ4WbfTCCKAk4gZBuhp1oOejsskNreUMuKMnkQ6fezB3yppu3bhyFiBErkbKjadbeKxAI1DAEhp3ZWCsCDHFSpwsA&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 61851560,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/tdchotel/071852b2b445d9ca4598d988b7ee86445361998.jpg@220w_125h_1e_1c",
+            "title": "速8酒店（北京交通大学西门店）",
+            "address": "海淀区高粱桥斜街15号",
+            "lowestprice": 358,
+            "avgprice": 0,
+            "latitude": 39.949479,
+            "longitude": 116.337452,
+            "showType": "hotel",
+            "avgscore": 4.3,
+            "comments": 1740,
+            "historyCouponCount": 37920,
+            "backCateName": "经济酒店",
+            "areaname": "北下关",
+            "tag": [],
+            "cate": [
+                20,
+                20426,
+                20606
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "速8酒店（北京交通大学西门店）+北京动物园319元，速8酒店（北京交通大学西门店）+北京海洋馆528元"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 51586955,
+                    "title": "速8酒店（北京交通大学西门店）+北京动物园",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 319,
+                    "value": 20,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 50366647,
+                    "title": "速8酒店（北京交通大学西门店）+北京海洋馆",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 528,
+                    "value": 170,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园821m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 1036098,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/joymerchant/-2598498476394620406-49466645-1543300160083.jpg@220w_125h_1e_1c",
+            "title": "赛足林福朋养生会所（西直门店）",
+            "address": "海淀区高粱桥街19号15栋一层二层（靠近北京海洋馆北门东侧，紧邻北京交通大学）",
+            "lowestprice": 168,
+            "avgprice": 183,
+            "latitude": 39.947474,
+            "longitude": 116.340817,
+            "showType": "entertainment",
+            "avgscore": 5,
+            "comments": 561,
+            "historyCouponCount": 4042,
+            "backCateName": "按摩\u002F足疗",
+            "areaname": "北下关",
+            "tag": [],
+            "cate": [
+                2,
+                3,
+                20611,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "168元\u002F券，缅式套餐，238元\u002F券，皇室养生套餐"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 54880643,
+                    "title": "缅式套餐",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 168,
+                    "value": 198,
+                    "sales": 124,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 55444487,
+                    "title": "皇室养生套餐",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 238,
+                    "value": 298,
+                    "sales": 19,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园697m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 281837,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp1.meituan.net\u002F180.180\u002Feducation\u002Fcd9952e993fce4bb246f731001025b0c108047.jpg",
+            "title": "华尔街英语（西直门凯德MALL店）",
+            "address": "西城区西直门外大街1号凯德MALL3层（地铁2号线，轻轨13号线西直门站A出口）",
+            "lowestprice": 1.19,
+            "avgprice": 40394,
+            "latitude": 39.941756,
+            "longitude": 116.352747,
+            "showType": "education",
+            "avgscore": 4,
+            "comments": 4,
+            "historyCouponCount": 8,
+            "backCateName": "英语",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                20285
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "1元\u002F券，VIP私人订制7天课程全套体验"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 44585650,
+                    "title": "VIP私人订制7天课程全套体验",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 1.19,
+                    "value": 1650,
+                    "sales": 851,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.4km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=xpsNxmeAY6l_lJeHUKL7TD5dXrbtqY8kx0VjfwhmWyoTtLUjf6-x0ADY4HuEBDJlFmUsVsNi44dZuiRspRdyJUHkqQ44r2HkYSjuvBhqfdpllQX70imJPf_C2qMfZ1bQfzminvjWJ3sdjA4K-ggjGxgg0T9oYsMDRPdIkUy5wA8uryZ3hw37mR67Enat5eboRRtE5naBJMASoKapoFZIiW7gLmKfRRfG3jhk_I5U0jCcbkiD_XZuFjQEwoKlbOY7D1Bs0a9X2mAdbtOboOtM0Gt2oNssdZlmdbXnNOhOaCB1Vpgaw_YyftjiTxsmsITV_2FaWPIp0hZndo8GjEdVdvc&sver=2&ad_v=1&ad_ci=xpsNxmeSvxUvtImNM-D7UHgVOWrs124-WhEq7y4rbq1esqpAINiTr6FcOo4BCOZx2hizSgjIKefqs__N2OUJO9n8UzerdOSqMNG6-I4_w8WZ&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=xpsNxmeAY6l_lJeHUKL7TD5dXrbtqY8kx0VjfwhmWyoTtLUjf6-x0ADY4HuEBDJlFmUsVsNi44dZuiRspRdyJUHkqQ44r2HkYSjuvBhqfdpllQX70imJPf_C2qMfZ1bQfzminvjWJ3sdjA4K-ggjGxgg0T9oYsMDRPdIkUy5wA8uryZ3hw37mR67Enat5eboRRtE5naBJMASoKapoFZIiW7gLmKfRRfG3jhk_I5U0jCcbkiD_XZuFjQEwoKlbOY7D1Bs0a9X2mAdbtOboOtM0Gt2oNssdZlmdbXnNOhOaCB1Vpgaw_YyftjiTxsmsITV_2FaWPIp0hZndo8GjEdVdvc&sver=2&ad_v=1&ad_ci=xpsNxmeSvxUvtImNM-D7UHgVOWrs124-WhEq7y4rbq1esqpAINiTr6FcOo4BCOZx2hizSgjIKefqs__N2OUJO9n8UzerdOSqMNG6-I4_w8WZ&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 186965947,
+            "template": "pcfood",
+            "imageUrl": "http:\u002F\u002Fqcloud.dpfile.com\u002Fpc\u002FhH89vZrLf1gavCvfoNId8IMS8ZxyMF2wHXiQFqfZa1nJSuxs7bVIH0TFv4BMaxCEZSUjBikR5Ecy-DoGYkMhlg.jpg",
+            "title": "深影国际影城（学院南路店）",
+            "address": "海淀区学院南路50号哇沃生活广场3楼",
+            "lowestprice": 19.9,
+            "avgprice": 57,
+            "latitude": 39.957627,
+            "longitude": 116.348562,
+            "showType": "cinema",
+            "avgscore": 5,
+            "comments": 0,
+            "historyCouponCount": 101337,
+            "backCateName": "电影院",
+            "areaname": "北下关",
+            "tag": [],
+            "cate": [
+                99,
+                20611,
+                20632,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": null,
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园2.0km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 64386952,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/msmerchant/b1635595f83216a324f15890a96dd81841558.jpg@220w_125h_1e_1c",
+            "title": "重庆鲜货老灶火锅（动物园店）",
+            "address": "西城区西直门外大街141号（凯旋大厦C座旁）",
+            "lowestprice": 28,
+            "avgprice": 72,
+            "latitude": 39.938669,
+            "longitude": 116.334401,
+            "showType": "food",
+            "avgscore": 4.7,
+            "comments": 189,
+            "historyCouponCount": 1590,
+            "backCateName": "重庆火锅",
+            "areaname": "西直门\u002F动物园",
+            "tag": [],
+            "cate": [
+                1,
+                20632,
+                20426,
+                20557
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp0.meituan.net\u002Fcodeman\u002Fa1af36edb271ae6ec74e36cde05d1ac8851.png",
+                    "message": "9.2折(买单立享)"
+                },
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "双人餐148元，4人餐278元，超值畅饮一夏1份28元"
+                },
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp0.meituan.net\u002Fgroupop\u002F348758503e87285267788a5d5b64d777779.png",
+                    "message": "90代100元"
+                }
+            ],
+            "dangleAbstracts": [
+                {
+                    "business": "买单",
+                    "dealId": -100,
+                    "icon": "https:\u002F\u002Fp1.meituan.net\u002Fcodeman\u002Fa43001c065622a9a9a5ef24ba9190c901262.png",
+                    "type": "pay",
+                    "message": "买单9.2折"
+                }
+            ],
+            "titleTags": [
+                "http:\u002F\u002Fp0.meituan.net\u002Fcodeman\u002Fa1af36edb271ae6ec74e36cde05d1ac8851.png"
+            ],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 54494029,
+                    "title": "100元代金券1张，可叠加",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 90,
+                    "value": 100,
+                    "sales": 494,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 80018749,
+                    "title": "超值火锅2人餐，提供免费WiFi",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 148,
+                    "value": 225,
+                    "sales": 48,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 600913088,
+                    "title": "超值畅饮一夏1份",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 28,
+                    "value": 1500,
+                    "sales": 0,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 80019204,
+                    "title": "精品火锅4人餐，提供免费WiFi",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 278,
+                    "value": 416,
+                    "sales": 15,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园\u003C500m",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 160336435,
+            "template": "pcfood",
+            "imageUrl": "https:\u002F\u002Fp0.meituan.net\u002Fwedding\u002F8c7b0886504ae0a7ab0d0820fa26e14071723.png",
+            "title": "研塑医疗·注射体雕中心",
+            "address": "海淀区中关村南大街32号科技发展大厦A座1层（中央民族大学东门正对面）",
+            "lowestprice": 0,
+            "avgprice": 2374,
+            "latitude": 39.949351,
+            "longitude": 116.324929,
+            "showType": "beauty",
+            "avgscore": 3.8,
+            "comments": 32,
+            "historyCouponCount": 198,
+            "backCateName": "医学美容",
+            "areaname": "魏公村",
+            "tag": [],
+            "cate": [
+                22,
+                20630,
+                20426
+            ],
+            "recentScreen": null,
+            "abstracts": [],
+            "dangleAbstracts": null,
+            "titleTags": [],
+            "iUrl": null,
+            "deals": null,
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.3km",
+            "hasAds": true,
+            "adsClickUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Fbilling?ad_cj=Z40hExCSno7kCHDUizMVnauxWAjkWe_DETUTEhkc6NXGLUqTPSYLG-BE2wv4-W4_UovsjZI0lbJwXmXetNKwAkaRJsent3S4Wt5JGGPM2TMATSlS_UCGOgMFho6vQBzIzWTejWpwRI-_YRqGCvFVBRfpnxR4HxkeWqyY4G7-mdq-NTdQAprB5rqFJ7EyhxCfaFhkRXSUK2NPZNGjTMdJieF4pK1fQtnBHmO73VU4ZnY6t2Wp1cL3xHm2VDidqQMOCNkWVKmuNDXp0a1jrVU3iJXMxX-nehF4mpg3qYS1XiSimj3E4R_F8As_EzyexWUQSWuqqwWA9UF7Tlk_mLM2u8Qmhg&sver=2&ad_v=1&ad_ci=Z40hExCAQjK0IG5Y7DAFgepoIu4VW16bN_HD_cVASsFjJVm2seQVtTIihhxUcFjrSnLgBXb7IW7yK29soX5sszI6z16wtTY8P0XPh9w7PIw&act=2",
+            "adsShowUrl": "https:\u002F\u002Fmlog.dianping.com\u002Fapi\u002Fcpv\u002Faction?ad_cj=Z40hExCSno7kCHDUizMVnauxWAjkWe_DETUTEhkc6NXGLUqTPSYLG-BE2wv4-W4_UovsjZI0lbJwXmXetNKwAkaRJsent3S4Wt5JGGPM2TMATSlS_UCGOgMFho6vQBzIzWTejWpwRI-_YRqGCvFVBRfpnxR4HxkeWqyY4G7-mdq-NTdQAprB5rqFJ7EyhxCfaFhkRXSUK2NPZNGjTMdJieF4pK1fQtnBHmO73VU4ZnY6t2Wp1cL3xHm2VDidqQMOCNkWVKmuNDXp0a1jrVU3iJXMxX-nehF4mpg3qYS1XiSimj3E4R_F8As_EzyexWUQSWuqqwWA9UF7Tlk_mLM2u8Qmhg&sver=2&ad_v=1&ad_ci=Z40hExCAQjK0IG5Y7DAFgepoIu4VW16bN_HD_cVASsFjJVm2seQVtTIihhxUcFjrSnLgBXb7IW7yK29soX5sszI6z16wtTY8P0XPh9w7PIw&act=3",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        },
+        {
+            "id": 95336313,
+            "template": "pcfood",
+            "imageUrl": "https://p0.meituan.net/joymerchant/8322256853705507190-5457103-1522729243382.jpg@220w_125h_1e_1c",
+            "title": "美拍证件照工作室",
+            "address": "海淀区中关村南大街34号中关村科技发展大厦C座1808室",
+            "lowestprice": 48,
+            "avgprice": 90,
+            "latitude": 39.948525,
+            "longitude": 116.325225,
+            "showType": "easylife",
+            "avgscore": 5,
+            "comments": 750,
+            "historyCouponCount": 12981,
+            "backCateName": "证件照",
+            "areaname": "魏公村",
+            "tag": [],
+            "cate": [
+                3,
+                20630,
+                20426,
+                29
+            ],
+            "recentScreen": null,
+            "abstracts": [
+                {
+                    "text": "",
+                    "backgroundColor": null,
+                    "borderColor": null,
+                    "fontColor": null,
+                    "icon": "http:\u002F\u002Fp1.meituan.net\u002Fgroupop\u002Faf71bbba0c83b6693e9f52645bb1cf3c660.png",
+                    "message": "78元\u002F券，-证件照1套，158元\u002F券，结婚登记照1套，48元\u002F券，-快照1套，99元\u002F券，证件照双色背景1套，168元\u002F券，商务形象照1套"
+                }
+            ],
+            "dangleAbstracts": null,
+            "titleTags": [
+                "http:\u002F\u002Fp0.meituan.net\u002Fcodeman\u002Fa1af36edb271ae6ec74e36cde05d1ac8851.png"
+            ],
+            "iUrl": null,
+            "deals": [
+                {
+                    "id": 38754571,
+                    "title": "证件照1套（1寸或2寸2选1）",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 78,
+                    "value": 198,
+                    "sales": 2951,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 38751808,
+                    "title": "结婚登记照1套",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 158,
+                    "value": 398,
+                    "sales": 942,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 38757721,
+                    "title": "快照1套（1寸或2寸2选1）",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 48,
+                    "value": 148,
+                    "sales": 601,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 50329170,
+                    "title": "证件照双色背景1套",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 99,
+                    "value": 259,
+                    "sales": 349,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 38754563,
+                    "title": "商务形象照1套",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 168,
+                    "value": 298,
+                    "sales": 163,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                },
+                {
+                    "id": 51631228,
+                    "title": "Panda Show四宫格",
+                    "subtitleA": null,
+                    "subtitleB": null,
+                    "subtitleC": null,
+                    "price": 398,
+                    "value": 580,
+                    "sales": 1,
+                    "iUrl": "",
+                    "stid": null,
+                    "trace": null,
+                    "tag": {
+                        "promotion": []
+                    }
+                }
+            ],
+            "posdescr": null,
+            "ct_poi": null,
+            "trace": null,
+            "landmarkDistance": "距北京动物园1.2km",
+            "hasAds": false,
+            "adsClickUrl": "",
+            "adsShowUrl": "",
+            "distance": "",
+            "cityId": 1,
+            "city": "北京",
+            "full": false
+        }
+    ]
+}

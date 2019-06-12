@@ -23,9 +23,12 @@
         flex: 1;
 
         >h3 {
-          font-weight: 500;
-          font-size: 16px;
-          color: #333;
+          margin-bottom: 5px;
+          >a{
+              font-weight: 500;
+              font-size: 16px;
+              color: #333;
+          }
         }
 
         .el-rate {
@@ -86,6 +89,7 @@
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
+            color: #666;
 
             .detail-type {
               width: 27px;
@@ -184,10 +188,8 @@
     .classic {
       display: flex;
       padding-bottom: 10px;
-
       >dt {
         width: 80px;
-
         &:nth-child(2) {
           border-radius: 100px;
           background: #13D1BE;
@@ -203,7 +205,20 @@
 
       &:nth-child(1) {
         dd {
+          width: 720px;
           border-bottom: 1px solid #ddd;
+          >div{
+             display: inline-block;
+          }
+        }
+      }
+
+      &:nth-child(2) {
+        dd {
+          width: 720px;
+          >div{
+             display: inline-block;
+          }
         }
       }
     }
