@@ -3,7 +3,11 @@
        <dl class="classic">
            <dt>分类</dt>
            <dt>全部</dt>
-           <dd>            
+           <dd>        
+                <!-- 把iselect抽象成组件的原因：
+                        1. 可复用
+                        2. 与数据紧密结合（强耦合）
+                  -->
                 <iselect
                     v-for="(item, idx) in types" :key="idx"
                     :name="item.name"

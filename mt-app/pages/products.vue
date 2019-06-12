@@ -6,6 +6,7 @@
                <List :list="list"/>
            </el-col>
            <el-col :span="5">
+               <!-- 地图功能与数据解耦。（它只需要经度和纬度）。所以做成公共功能模块 -->
                <Map v-if="point.length"
                     :width="230"
                     :height="290"
