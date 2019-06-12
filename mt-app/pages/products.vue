@@ -33,18 +33,19 @@ export default {
           types: [], // 分类
           areas: [],  // 区域
           list: [], // 产品
-          point: [39.929126,116.359776] // 地图
+          point: [] // 地图
       }
   },
   async asyncData(ctx) {
       let keyword = ctx.query.keyword
-      let {status, data: { category, area, data }} = await ctx.$axios.get('/mock/products.json')
-    //   console.log(category);
+      let {status, data: { category, area, city, data }} = await ctx.$axios.get('/mock/products.json')
+      //   console.log(category);
       if(status===200) {
         return {
                 keyword,
                 types: category,
                 areas: area,
+                point: Object.values(city.position),
                 list: data
             }
       }

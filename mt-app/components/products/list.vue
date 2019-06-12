@@ -61,7 +61,7 @@ export default {
                     },
                     {
                     name: 's-comment',
-                    txt: '评价最高',
+                    txt: '评分最高',
                     active: false
                     }
                 ]
@@ -91,11 +91,11 @@ export default {
            }
            // 人气最高排序
            if(item.name === 's-visit'){
-               this.list.sort((a, b) => b.avgscore - a.avgscore);
+               this.list.sort((a, b) => b.comments - a.comments);
            }
            // 评价最高排序
            if(item.name === 's-comment'){
-               this.list.sort((a, b) => b.comments - a.comments);
+               this.list.sort((a, b) => b.avgscore - a.avgscore);
            }
        }
    }

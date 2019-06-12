@@ -63,7 +63,7 @@ export default {
    },
    computed: {
        curdetail() {
-           return this.$store.state.home.menu.filter(item => {return item.type === this.kind})[0].child
+           return this.$store.state.home.menu.filter(item => item.type === this.kind)[0].child  // filter()返回的是一个数组，故用[0]取得当前项
        }
    },
    methods: {

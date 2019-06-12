@@ -94,7 +94,7 @@ export default {
                 // 如果全国城市列表中没有值，则先去请求数据
                 let {status, data: {city}} = await self.$axios.get('/geo/city')
                 if(status===200) {
-                    self.cities = city.map(item =>{
+                    self.cities = city.map(item =>{ // !!!重点：从后端获取数据后，与前端数据结构做map映射。
                         return {
                             value: item.name // 3.数据必须有 value 属性!!!!
                         }
