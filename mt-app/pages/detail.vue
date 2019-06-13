@@ -15,15 +15,16 @@
                <h3>商家团购及优惠</h3>
            </el-col>
        </el-row>
-       <el-row>
-           <el-col :span="19">
-               <List :list="group"/>
-           </el-col>
-           <el-col :span="5">
-               <Map v-if="point.length"
-                    :width="230"
-                    :height="290"
-                    :point="point"/>
+       <el-row v-if="canOrder || !login">
+           <el-col :span="24">
+               <List :list="group" v-if="login"/>
+               <div v-else class="deal-need-login">
+                    <img src="//p0.meituan.net/codeman/56a7d5abcb5ce3d90fc91195e5b5856911194.png" alt="登录查看">
+                    <span>请登录后查看详细团购优惠</span>
+                    <el-button  type="primary" round>
+                        <a href="/login">立即登录</a>
+                    </el-button>
+                </div>
            </el-col>
        </el-row>
    </div>
@@ -34,25 +35,30 @@
 import Crumbs from "@/components/detail/crumbs.vue"
 import Summa from "@/components/detail/summary.vue"
 import List from "@/components/detail/list.vue"
-import Map from "@/components/public/map.vue"
 export default {
    components: {
        Crumbs,
        Summa,
        List,
-       Map,
    },
+   computed:{
+    canOrder:function(){
+      return this.group.filter(item=>item.headIcon.length).length
+    }
+  },
    async asyncData(ctx){
        let {keyword, type} = ctx.query;
        let{status, data:{group, poiInfo, album}} = await ctx.$axios.get('/mock/detail.json')
-       if(status===200) {
+       let {status:status2, data: {login}} = await ctx.$axios.get('/search/isSignIn')
+       if(status===200 && status2===200) {
            return {
                 keyword,
                 type,
                 poiInfo,
                 album,
                 group,
-                point: [poiInfo.lng, poiInfo.lat]
+                point: [poiInfo.lng, poiInfo.lat],
+                login
             }
        }
    }

@@ -142,6 +142,13 @@ router.get('/products', async (ctx) => {
     }
 })
 
+// 验证是否登录
+router.get('/isSignIn', async (ctx) => {
+    ctx.body = {
+        login: ctx.isAuthenticated()
+    }
+})
+
 
 
 export default router;
