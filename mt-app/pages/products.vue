@@ -38,15 +38,15 @@ export default {
   },
   async asyncData(ctx) {
       let keyword = ctx.query.keyword
-      let {status, data: { category, area, city, data }} = await ctx.$axios.get('/mock/products.json')
+      let {status, data: { category, area, city, list }} = await ctx.$axios.get('/mock/products.json')
       //   console.log(category);
       if(status===200) {
         return {
                 keyword,
                 types: category,
                 areas: area,
-                point: Object.values(city.position),
-                list: data
+                point: [city.position.lng, city.position.lat],
+                list
             }
       }
   }

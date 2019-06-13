@@ -17,6 +17,7 @@
           font-size: 26px;
           font-weight: 500;
           color: #222;
+          margin: 0 0 12px;
         }
 
         .el-rate {
@@ -28,14 +29,15 @@
         }
 
         >span {
-          font-size: 12px;
+          font-size: 14px;
           margin-right: 10px;
+          color: #666;
         }
 
         >ul {
           border-top: 1px solid #E5E5E5;
           list-style: none;
-          padding-top: 5px;
+          padding-top: 10px;
           margin-top: 10px;
 
           li {
@@ -51,7 +53,7 @@
       }
     }
     .m-detail-list {
-      margin-top: 34px;
+      // margin-top: 34px;
       h3{
         margin: 8px 0;
       }
@@ -133,6 +135,10 @@
       line-height: 26px;
       margin-bottom: 8px;
       margin-top: 40px;
+      h3{
+        font-size: 20px;
+        color: #222;
+      }
     }
     .deal-need-login {
       padding: 30px 0;

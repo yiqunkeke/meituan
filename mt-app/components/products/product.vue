@@ -4,7 +4,7 @@
       <img :src="meta.imageUrl" alt="商品图片">
     </dt>
     <dd>
-      <h3><nuxt-link :to="{path:'detail',query:{keyword:meta.title,type:meta.showType}}">{{ meta.title }}</nuxt-link></h3>
+      <h3><nuxt-link :to="{path:'detail',query:{keyword:meta.title,type:meta.showType,id:meta.id}}">{{ meta.title }}</nuxt-link></h3>
       <el-rate v-model="meta.avgscore" :colors="['#ff9900', '#ff9900', '#FF9900']" disabled/>
       <span v-if="meta.avgscore>4" class="s-item-comment">很好</span>
       <span v-else-if="meta.rate>3" class="s-item-comment">一般</span>
