@@ -27,19 +27,15 @@ export default {
       List,
       Map
   },
-  data(){
-      return {
-          keyword:'', // 搜索关键字
-          types: [], // 分类
-          areas: [],  // 区域
-          list: [], // 产品
-          point: [] // 地图
-      }
-  },
   async asyncData(ctx) {
       let keyword = ctx.query.keyword
-      let {status, data: { category, area, city, list }} = await ctx.$axios.get('/mock/products.json')
-      //   console.log(category);
+      let {status, data: { category, area, city, list }} = await ctx.$axios.get('/mock/products.json') // 获取产品列表、city
+    //   let {status:status2, data: {areas, types}} = await ctx.$axios.get('/categroy/crumbs', { // 获取分类、区域 -----> 接口有问题?
+    //         params:{
+    //             city: '大庆'
+    //         }
+    //     })
+    //   console.log(areas, types);
       if(status===200) {
         return {
                 keyword,

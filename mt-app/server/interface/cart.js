@@ -1,5 +1,5 @@
 import Router from 'koa-router';
-import axios from './utils/axios'
+// import axios from './utils/axios'
 import Cart from '../dbs/models/cart'
 import md5 from 'crypto-js/md5'
 
@@ -51,7 +51,7 @@ router.post('/create', async ctx => {
 // 获取购物车信息
 router.post('/getCart', async ctx => {
     let { id } = ctx.request.body
-    console.log(id);
+    // console.log(id);
     try {
         // 读数据库
         let result = await Cart.findOne({ cartNo: id })
