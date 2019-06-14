@@ -33,13 +33,29 @@ export default {
        }
    },
    methods:{
-       submit(){
+       async submit(){
+           // 创建订单
+           let {status, data: {code, id}} = await this.$axios.post('/order/createOrder', {
+               id:this.cartNo,
+               price: this.cart[0].price,
+               count: this.cart[0].count,
+           })
+
+           if(status===200 && code===0) {
+               this.$message({
+                    message: `恭喜您，已成功下单，订单号:${id}`,
+                    type: 'success'
+                });
+               location.href='/order'
+           } else {
+               this.$message.error('下单失败');
+           }
            
        }
    },
    async asyncData(ctx){
        // 获取购物车
-       let {status, data:{code, data: {name, price}}} = await ctx.$axios.post('/cart/getCart', {
+       let {status, data:{code, data: {name, price, imgs}}} = await ctx.$axios.post('/cart/getCart', {
            id: ctx.query.id
        })
 
@@ -49,6 +65,7 @@ export default {
                    {
                        name,
                        price,
+                       imgs,
                        count: 1
                    }
                ],

@@ -3,14 +3,18 @@
     :data="cartData"
     style="width: 980px">
         <el-table-column
-            prop="name"
             label="项目"
-            width="530" />
-            <!-- prop属性：是单向绑定的，只做显示 -->
+            width="430">
+            <template slot-scope="scope">
+                <img :src="scope.row.imgs" alt="" width="50" height="50" align="center" style="margin-right:10px;">
+                {{scope.row.name}}
+            </template>
+        </el-table-column>
         <el-table-column
             prop="price"
             label="单价"
             width="132" />
+            <!-- prop属性：是单向绑定的，只做显示 -->
         <el-table-column
             label="数量"
             width="200" >
